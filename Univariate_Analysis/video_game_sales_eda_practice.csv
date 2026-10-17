@@ -1,0 +1,1201 @@
+game_name,platform,release_year,genre,publisher,critic_score,user_score,NA_sales_millions,EU_sales_millions,JP_sales_millions,other_sales_millions,global_sales_millions
+Game_0001,PS4,2004.0,Action,Sony,82.0,8.3,1.53,1.19,0.54,0.25,3.51
+Game_0002,PS4,2014.0,Strategy,Indie,65.0,6.3,0.14,0.14,0.05,0.11,0.44
+Game_0003,Mobile,1996.0,Sports,Electronic Arts,72.0,6.8,0.14,0.08,0.05,0.01,0.28
+Game_0004,Xbox,2002.0,Shooter,Indie,83.0,,0.25,0.17,0.09,0.21,0.72
+Game_0005,PS5,1997.0,Shooter,Take-Two,71.0,3.1,0.03,0.02,0.01,0.0,0.06
+Game_0006,Xbox,2008.0,Racing,Microsoft,75.0,5.6,0.06,0.05,0.04,0.04,0.19
+Game_0007,PC,2016.0,Puzzle,Ubisoft,64.0,7.0,0.17,0.14,0.04,0.23,0.58
+Game_0008,Switch,2013.0,Action,Indie,84.0,7.1,0.01,0.01,0.01,0.01,0.04
+Game_0009,PS5,2017.0,Strategy,Indie,94.0,6.7,0.63,0.58,0.24,0.64,2.09
+Game_0010,Xbox,2007.0,RPG,Ubisoft,70.0,6.7,0.49,0.21,0.03,0.21,0.94
+Game_0011,Mobile,1997.0,Platform,Ubisoft,60.0,7.0,0.92,0.36,0.11,0.75,2.14
+Game_0012,Mobile,2010.0,Puzzle,Take-Two,,7.2,0.16,0.07,0.02,0.04,0.29
+Game_0013,PS4,2022.0,Strategy,Sony,,6.1,0.21,0.09,0.04,0.12,0.46
+Game_0014,PC,2011.0,Adventure,Electronic Arts,70.0,4.9,0.52,0.34,0.2,0.4,1.46
+Game_0015,PC,2017.0,Sports,Indie,92.0,8.0,1.63,0.95,0.28,1.32,4.18
+Game_0016,PS5,1999.0,Racing,Microsoft,61.0,5.3,0.58,0.43,0.11,0.29,1.41
+Game_0017,PC,2003.0,Sports,Ubisoft,70.0,,0.49,0.31,0.07,0.03,0.9
+Game_0018,PS5,2003.0,Shooter,Ubisoft,86.0,5.6,1.56,0.69,0.6,0.77,3.62
+Game_0019,Mobile,2002.0,RPG,Microsoft,76.0,6.6,0.68,0.28,0.16,0.27,1.39
+Game_0020,PS5,2012.0,RPG,Electronic Arts,67.0,8.4,0.02,0.01,0.0,0.02,0.05
+Game_0021,PS5,2023.0,Sports,Microsoft,95.0,6.4,0.32,0.23,0.1,0.08,0.73
+Game_0022,Switch,2013.0,Shooter,Nintendo,72.0,5.4,0.19,0.14,0.06,0.2,0.59
+Game_0023,Switch,1996.0,Adventure,Ubisoft,,6.8,0.4,0.17,0.19,0.3,1.06
+Game_0024,PS5,2024.0,Action,Indie,69.0,8.3,0.33,0.34,0.18,0.19,1.04
+Game_0025,PS4,1998.0,Sports,Nintendo,61.0,7.1,0.14,0.09,0.06,0.08,0.37
+Game_0026,PS4,1996.0,Shooter,Take-Two,75.0,6.8,0.22,0.2,0.06,0.12,0.6
+Game_0027,Switch,1997.0,Action,Take-Two,89.0,6.9,0.06,0.03,0.03,0.04,0.16
+Game_0028,PC,2023.0,Strategy,Take-Two,71.0,8.8,0.3,0.28,0.12,0.45,1.15
+Game_0029,Switch,2015.0,Shooter,Nintendo,89.0,5.3,0.21,0.1,0.09,0.11,0.51
+Game_0030,PC,1999.0,RPG,Indie,61.0,7.5,0.19,0.12,0.08,0.06,0.45
+Game_0031,Xbox,2022.0,RPG,Electronic Arts,75.0,,1.14,0.79,0.38,0.04,2.35
+Game_0032,Mobile,2017.0,Simulation,Electronic Arts,81.0,7.1,0.41,0.28,0.13,0.14,0.96
+Game_0033,PC,2023.0,Racing,Nintendo,79.0,,0.58,0.27,0.04,0.34,1.23
+Game_0034,Switch,2008.0,Strategy,Microsoft,70.0,6.1,0.23,0.12,0.02,0.08,0.45
+Game_0035,PS4,2007.0,Shooter,Take-Two,47.0,6.3,0.09,0.06,0.06,0.1,0.31
+Game_0036,PS5,2025.0,Puzzle,Microsoft,,7.2,0.27,0.14,0.11,0.07,0.59
+Game_0037,PS4,1999.0,Sports,Indie,84.0,7.0,0.28,0.18,0.04,0.2,0.7
+Game_0038,PC,2001.0,Shooter,Ubisoft,81.0,,0.26,0.19,0.09,0.02,0.56
+Game_0039,PS4,2006.0,Puzzle,Nintendo,71.0,8.2,0.25,0.2,0.09,0.11,0.65
+Game_0040,Xbox,1996.0,RPG,Electronic Arts,90.0,6.4,0.25,0.28,0.1,0.28,0.91
+Game_0041,Switch,2014.0,Adventure,Electronic Arts,58.0,8.1,0.67,0.45,0.06,0.64,1.82
+Game_0042,Switch,2012.0,RPG,Take-Two,78.0,7.0,0.05,0.04,0.01,0.05,0.15
+Game_0043,Mobile,,RPG,Take-Two,94.0,9.0,0.06,0.04,0.03,0.05,0.18
+Game_0044,PS4,2018.0,Adventure,Sony,93.0,6.9,0.01,0.0,0.0,0.01,0.02
+Game_0045,Mobile,2011.0,RPG,Electronic Arts,98.0,5.9,0.18,0.12,0.02,0.25,0.57
+Game_0046,Mobile,2020.0,Sports,Sony,56.0,8.7,0.06,0.02,0.01,0.03,0.12
+Game_0047,PS4,2025.0,Strategy,Microsoft,67.0,5.1,0.01,0.01,0.0,0.03,0.05
+Game_0048,PC,2023.0,Action,Electronic Arts,74.0,6.6,0.15,0.12,0.06,0.08,0.41
+Game_0049,PS5,2012.0,Adventure,Sony,83.0,6.7,0.06,0.05,0.02,0.03,0.16
+Game_0050,Switch,2016.0,Sports,Electronic Arts,57.0,8.5,0.62,0.38,0.26,0.3,1.56
+Game_0051,PS4,2007.0,Strategy,Take-Two,76.0,7.7,0.84,0.72,0.37,0.2,2.13
+Game_0052,PC,2025.0,Shooter,Sony,62.0,7.3,0.41,0.25,0.19,0.19,1.04
+Game_0053,Mobile,2003.0,Shooter,Sony,71.0,9.3,0.1,0.09,0.02,0.1,0.31
+Game_0054,Xbox,1996.0,Sports,Sony,,7.2,0.03,0.02,0.02,0.03,0.1
+Game_0055,PC,2007.0,Sports,Ubisoft,81.0,5.2,0.08,0.03,0.04,0.03,0.18
+Game_0056,Switch,2005.0,Adventure,Indie,47.0,,0.05,0.04,0.01,0.06,0.16
+Game_0057,PS4,2011.0,Sports,Nintendo,77.0,5.1,0.14,0.06,0.03,0.08,0.31
+Game_0058,PS5,1998.0,Shooter,Electronic Arts,56.0,7.0,0.09,0.1,0.03,0.12,0.34
+Game_0059,PS4,2021.0,Action,Electronic Arts,62.0,6.9,1.44,0.87,0.42,0.97,3.7
+Game_0060,PS4,2017.0,Racing,Electronic Arts,80.0,7.5,0.43,0.23,0.12,0.51,1.29
+Game_0061,Mobile,2024.0,Sports,Microsoft,76.0,7.3,2.32,1.31,0.62,0.07,4.32
+Game_0062,Xbox,2009.0,Shooter,Nintendo,56.0,7.3,0.32,0.2,0.02,0.11,0.65
+Game_0063,PS5,2002.0,Sports,Microsoft,41.0,,0.05,0.03,0.02,0.08,0.18
+Game_0064,PS4,2011.0,Action,Take-Two,75.0,7.5,0.11,0.05,0.03,0.05,0.24
+Game_0065,PC,1995.0,Puzzle,Electronic Arts,75.0,5.9,0.14,0.14,0.06,0.14,0.48
+Game_0066,PS5,2003.0,Platform,Electronic Arts,52.0,,0.3,0.24,0.05,0.18,0.77
+Game_0067,Switch,2001.0,Action,Sony,96.0,6.3,0.58,0.33,0.33,0.62,1.86
+Game_0068,PS4,2022.0,Shooter,Ubisoft,84.0,6.9,0.1,0.08,0.01,0.06,0.25
+Game_0069,Switch,2001.0,Adventure,Electronic Arts,53.0,,0.09,0.11,0.06,0.06,0.32
+Game_0070,PS5,2009.0,RPG,Microsoft,84.0,8.5,0.17,0.12,0.02,0.3,0.61
+Game_0071,Xbox,2019.0,Sports,Electronic Arts,54.0,5.3,0.98,0.66,0.44,0.2,2.28
+Game_0072,PC,1995.0,Shooter,Take-Two,93.0,7.7,0.11,0.09,0.06,0.04,0.3
+Game_0073,PC,2001.0,Racing,Ubisoft,94.0,8.2,0.37,0.17,0.12,0.23,0.89
+Game_0074,PS4,2000.0,Platform,Indie,95.0,8.0,0.07,0.04,0.03,0.0,0.14
+Game_0075,Mobile,1995.0,Simulation,Indie,56.0,7.3,0.26,0.27,0.04,0.22,0.79
+Game_0076,Switch,2013.0,Strategy,Take-Two,,7.1,0.24,0.23,0.14,0.26,0.87
+Game_0077,PS5,2003.0,Action,Ubisoft,55.0,9.3,0.35,0.28,0.11,0.22,0.96
+Game_0078,PS5,2014.0,Puzzle,Microsoft,59.0,8.1,0.79,0.48,0.21,0.79,2.27
+Game_0079,PC,2018.0,Action,Take-Two,99.0,5.2,0.17,0.14,0.05,0.1,0.46
+Game_0080,Xbox,2018.0,RPG,Ubisoft,,7.9,0.28,0.16,0.08,0.54,1.06
+Game_0081,Mobile,2005.0,RPG,Sony,69.0,5.5,0.09,0.03,0.03,0.03,0.18
+Game_0082,Xbox,2001.0,Adventure,Nintendo,70.0,8.2,0.04,0.03,0.02,0.04,0.13
+Game_0083,Switch,2025.0,Sports,Sony,61.0,8.1,0.16,0.11,0.03,0.17,0.47
+Game_0084,PS4,1998.0,Action,Ubisoft,65.0,10.0,0.1,0.1,0.05,0.12,0.37
+Game_0085,Switch,2016.0,Action,Electronic Arts,79.0,7.3,1.53,0.6,0.59,0.79,3.51
+Game_0086,PS4,2008.0,Strategy,Electronic Arts,68.0,6.8,0.54,0.27,0.15,0.15,1.11
+Game_0087,Switch,2024.0,Sports,Nintendo,67.0,6.7,1.11,0.69,0.09,0.6,2.49
+Game_0088,PS5,1997.0,Strategy,Nintendo,70.0,7.9,0.24,0.19,0.09,0.26,0.78
+Game_0089,Xbox,2008.0,Sports,Nintendo,73.0,7.8,0.35,0.36,0.2,0.39,1.3
+Game_0090,PS5,2015.0,Simulation,Nintendo,70.0,7.7,0.11,0.11,0.02,0.12,0.36
+Game_0091,PS5,2006.0,Puzzle,Indie,66.0,8.8,0.3,0.19,0.12,0.47,1.08
+Game_0092,PS5,2021.0,Action,Electronic Arts,,7.8,0.08,0.09,0.05,0.05,0.27
+Game_0093,PS4,2023.0,Puzzle,Ubisoft,78.0,5.0,0.14,0.09,0.03,0.02,0.28
+Game_0094,PS5,2008.0,Racing,Indie,68.0,6.4,0.01,0.01,0.0,0.01,0.03
+Game_0095,Xbox,2007.0,Strategy,Ubisoft,69.0,7.3,0.21,0.19,0.13,0.24,0.77
+Game_0096,Xbox,1996.0,Strategy,Indie,63.0,7.7,0.4,0.37,0.12,0.51,1.4
+Game_0097,PS5,2017.0,Sports,Electronic Arts,71.0,5.5,0.44,0.3,0.17,0.17,1.08
+Game_0098,Switch,2023.0,Puzzle,Indie,79.0,8.7,0.36,0.16,0.04,0.11,0.67
+Game_0099,Xbox,2000.0,RPG,Ubisoft,48.0,,0.15,0.06,0.02,0.07,0.3
+Game_0100,Mobile,2024.0,Strategy,Microsoft,75.0,,0.01,0.01,0.0,0.01,0.03
+Game_0101,Mobile,2005.0,Racing,Ubisoft,80.0,8.3,0.06,0.03,0.01,0.03,0.13
+Game_0102,Mobile,2005.0,Action,Electronic Arts,72.0,6.2,0.21,0.09,0.08,0.05,0.43
+Game_0103,Mobile,2000.0,Strategy,Electronic Arts,64.0,8.0,0.53,0.28,0.21,0.09,1.11
+Game_0104,Mobile,2018.0,Shooter,Electronic Arts,85.0,8.7,0.66,0.55,0.13,0.66,2.0
+Game_0105,Mobile,2021.0,Racing,Sony,85.0,7.3,1.01,0.56,0.22,0.05,1.84
+Game_0106,Mobile,2001.0,Action,Sony,60.0,8.0,0.08,0.07,0.03,0.05,0.23
+Game_0107,PS5,2004.0,Strategy,Take-Two,78.0,5.5,0.21,0.09,0.06,0.03,0.39
+Game_0108,PC,2019.0,Simulation,Ubisoft,75.0,5.4,0.04,0.02,0.01,0.04,0.11
+Game_0109,Mobile,2002.0,Strategy,Nintendo,45.0,7.7,0.02,0.01,0.01,0.02,0.06
+Game_0110,PS5,1997.0,Shooter,Microsoft,76.0,4.5,0.09,0.05,0.01,0.04,0.19
+Game_0111,Mobile,2025.0,Strategy,Nintendo,54.0,6.2,0.09,0.03,0.03,0.05,0.2
+Game_0112,Mobile,2016.0,Shooter,Indie,72.0,7.0,0.09,0.06,0.01,0.02,0.18
+Game_0113,Xbox,2024.0,Adventure,Take-Two,53.0,8.0,0.65,0.4,0.22,0.0,1.24
+Game_0114,PS5,2003.0,Action,Microsoft,79.0,9.0,0.93,0.91,0.16,0.74,2.74
+Game_0115,Xbox,2011.0,RPG,Nintendo,100.0,8.5,0.07,0.06,0.02,0.05,0.2
+Game_0116,Mobile,2010.0,Action,Sony,64.0,5.3,1.74,0.84,0.18,0.71,3.47
+Game_0117,PC,2024.0,Action,Electronic Arts,60.0,6.6,0.02,0.02,0.01,0.02,0.07
+Game_0118,Mobile,2014.0,Sports,Indie,51.0,7.7,0.28,0.16,0.08,0.29,0.81
+Game_0119,Switch,2010.0,RPG,Ubisoft,59.0,6.5,0.48,0.2,0.17,0.12,0.97
+Game_0120,Mobile,2021.0,Sports,Microsoft,86.0,7.7,0.05,0.02,0.02,0.01,0.1
+Game_0121,PS5,2021.0,Strategy,Nintendo,73.0,5.7,0.49,0.39,0.27,0.4,1.55
+Game_0122,Mobile,2009.0,Simulation,Ubisoft,49.0,5.7,0.16,0.1,0.03,0.03,0.32
+Game_0123,PC,2019.0,Shooter,Electronic Arts,69.0,10.0,0.28,0.23,0.11,0.06,0.68
+Game_0124,Switch,2010.0,RPG,Microsoft,67.0,,0.92,0.56,0.21,0.16,1.85
+Game_0125,Mobile,2000.0,RPG,Indie,80.0,7.0,0.32,0.33,0.1,0.33,1.08
+Game_0126,PS4,2000.0,Action,Ubisoft,65.0,,0.08,0.1,0.03,0.09,0.3
+Game_0127,PC,2025.0,Adventure,Take-Two,77.0,7.1,0.24,0.1,0.04,0.09,0.47
+Game_0128,Mobile,2006.0,Racing,Nintendo,71.0,,1.4,0.94,0.24,1.1,3.68
+Game_0129,Xbox,2014.0,Sports,Electronic Arts,50.0,,0.02,0.02,0.01,0.02,0.07
+Game_0130,PS5,2010.0,Sports,Nintendo,58.0,7.5,0.71,0.48,0.24,0.05,1.48
+Game_0131,Mobile,2020.0,Platform,Electronic Arts,89.0,10.0,0.78,0.34,0.05,0.33,1.5
+Game_0132,Switch,2008.0,Adventure,Electronic Arts,77.0,6.5,2.1,1.37,0.76,0.14,4.37
+Game_0133,Mobile,2016.0,Adventure,Microsoft,74.0,,0.64,0.5,0.41,0.78,2.33
+Game_0134,Xbox,2012.0,Simulation,Sony,72.0,7.6,0.04,0.02,0.02,0.01,0.09
+Game_0135,PS5,2025.0,RPG,Microsoft,,7.9,0.46,0.34,0.03,0.16,0.99
+Game_0136,Xbox,2025.0,Strategy,Microsoft,68.0,5.4,0.22,0.25,0.15,0.14,0.76
+Game_0137,PS4,2008.0,Adventure,Ubisoft,78.0,5.2,0.71,0.46,0.15,0.01,1.33
+Game_0138,PS4,1998.0,Simulation,Indie,82.0,5.9,1.29,1.12,0.72,0.97,4.1
+Game_0139,PC,2008.0,Shooter,Sony,,4.8,0.34,0.14,0.11,0.16,0.75
+Game_0140,PS5,2009.0,Adventure,Indie,77.0,7.1,0.14,0.09,0.03,0.14,0.4
+Game_0141,PS5,2018.0,Strategy,Indie,80.0,6.1,0.21,0.13,0.02,0.03,0.39
+Game_0142,PC,1995.0,Shooter,Take-Two,65.0,9.5,0.7,0.34,0.22,0.49,1.75
+Game_0143,PS4,2006.0,Action,Sony,91.0,8.7,0.07,0.03,0.0,0.05,0.15
+Game_0144,PS4,1998.0,Shooter,Indie,60.0,6.8,0.28,0.31,0.19,0.3,1.08
+Game_0145,Xbox,2008.0,Platform,Microsoft,77.0,6.8,0.32,0.15,0.1,0.19,0.76
+Game_0146,PS4,2003.0,RPG,Take-Two,69.0,9.1,0.02,0.01,0.01,0.02,0.06
+Game_0147,PS4,2005.0,Action,Nintendo,89.0,8.2,0.39,0.15,0.14,0.21,0.89
+Game_0148,PC,2024.0,Shooter,Ubisoft,71.0,,0.05,0.05,0.03,0.01,0.14
+Game_0149,PS5,1996.0,Action,Microsoft,82.0,7.4,1.81,1.11,0.72,1.34,4.98
+Game_0150,PS5,2021.0,RPG,Nintendo,63.0,7.7,0.07,0.04,0.03,0.03,0.17
+Game_0151,PC,2020.0,Puzzle,Sony,88.0,,0.61,0.42,0.09,0.43,1.55
+Game_0152,PS5,1995.0,RPG,Sony,85.0,8.4,0.18,0.1,0.05,0.05,0.38
+Game_0153,PS4,2015.0,Strategy,Electronic Arts,93.0,6.5,0.07,0.05,0.01,0.02,0.15
+Game_0154,PS5,2017.0,RPG,Electronic Arts,69.0,4.6,0.27,0.18,0.03,0.35,0.83
+Game_0155,PS5,2022.0,Adventure,Take-Two,84.0,8.6,0.06,0.03,0.0,0.02,0.11
+Game_0156,Switch,1998.0,Action,Nintendo,82.0,5.6,0.21,0.08,0.04,0.07,0.4
+Game_0157,PS5,1996.0,Racing,Nintendo,88.0,6.5,1.14,0.89,0.37,0.16,2.56
+Game_0158,PS4,2011.0,Shooter,Indie,82.0,7.5,0.19,0.09,0.03,0.03,0.34
+Game_0159,Switch,1998.0,Action,Take-Two,,5.1,1.99,1.35,0.56,2.55,6.45
+Game_0160,Switch,2006.0,Adventure,Sony,88.0,6.9,0.92,0.6,0.31,0.0,1.71
+Game_0161,Switch,1995.0,Sports,Take-Two,38.0,5.6,0.03,0.03,0.01,0.02,0.09
+Game_0162,Xbox,2020.0,Shooter,Electronic Arts,69.0,6.1,1.82,1.77,0.31,2.45,6.35
+Game_0163,PC,2005.0,RPG,Microsoft,62.0,5.6,1.36,0.93,0.36,0.92,3.57
+Game_0164,Mobile,2010.0,Racing,Microsoft,88.0,5.4,0.02,0.02,0.01,0.0,0.05
+Game_0165,Xbox,2002.0,Shooter,Electronic Arts,70.0,8.2,0.15,0.12,0.06,0.03,0.36
+Game_0166,Mobile,2018.0,Action,Electronic Arts,83.0,8.0,2.28,1.17,0.39,0.35,4.19
+Game_0167,PC,2009.0,Platform,Sony,75.0,7.2,0.19,0.16,0.06,0.05,0.46
+Game_0168,PC,2017.0,Action,Nintendo,87.0,6.2,0.24,0.18,0.07,0.03,0.52
+Game_0169,Mobile,,Action,Take-Two,84.0,5.3,0.09,0.03,0.03,0.03,0.18
+Game_0170,PS5,2023.0,Sports,Indie,73.0,3.5,2.25,1.51,0.28,0.93,4.973362321066973
+Game_0171,Mobile,2018.0,RPG,Indie,80.0,6.2,0.3,0.3,0.06,0.26,0.92
+Game_0172,Switch,2015.0,Shooter,Microsoft,73.0,6.5,1.95,0.79,0.16,1.68,4.58
+Game_0173,PS5,2000.0,Sports,Electronic Arts,67.0,7.4,0.12,0.04,0.03,0.04,0.23
+Game_0174,Xbox,2015.0,Platform,Nintendo,80.0,8.3,0.21,0.11,0.04,0.24,0.6
+Game_0175,PS5,2009.0,Puzzle,Sony,93.0,6.9,1.21,0.94,0.5,1.01,3.66
+Game_0176,Switch,2006.0,Action,Electronic Arts,84.0,7.1,0.25,0.16,0.18,0.39,0.98
+Game_0177,Xbox,2008.0,Simulation,Electronic Arts,63.0,6.1,0.03,0.02,0.01,0.06,0.12
+Game_0178,Switch,2011.0,Action,Microsoft,84.0,6.8,0.42,0.27,0.26,0.4,1.35
+Game_0179,PS5,1996.0,Racing,Nintendo,63.0,7.7,0.22,0.24,0.11,0.24,0.81
+Game_0180,PC,1999.0,RPG,Microsoft,34.0,5.7,0.03,0.01,0.01,0.02,0.07
+Game_0181,PS4,2003.0,Adventure,Take-Two,61.0,6.9,1.19,0.88,0.2,0.35,2.62
+Game_0182,Switch,2019.0,Adventure,Nintendo,75.0,7.1,0.04,0.02,0.02,0.03,0.11
+Game_0183,Mobile,2017.0,Simulation,Sony,54.0,5.7,0.97,0.58,0.06,0.48,2.09
+Game_0184,PS5,1996.0,Platform,Take-Two,75.0,5.4,0.33,0.17,0.12,0.06,0.68
+Game_0185,PS4,2022.0,RPG,Ubisoft,88.0,8.9,0.33,0.2,0.18,0.42,1.13
+Game_0186,Mobile,1998.0,Strategy,Electronic Arts,72.0,8.1,0.05,0.03,0.01,0.03,0.12
+Game_0187,PS5,2020.0,Adventure,Electronic Arts,79.0,6.5,0.06,0.06,0.03,0.06,0.21
+Game_0188,Xbox,2008.0,Action,Indie,69.0,6.9,0.21,0.15,0.12,0.1,0.58
+Game_0189,Mobile,2017.0,Adventure,Ubisoft,42.0,8.1,0.12,0.05,0.04,0.04,0.25
+Game_0190,Xbox,2008.0,Shooter,Electronic Arts,76.0,,0.05,0.03,0.01,0.05,0.14
+Game_0191,PC,2019.0,Action,Nintendo,63.0,6.9,0.1,0.05,0.03,0.11,0.29
+Game_0192,Xbox,2025.0,Sports,Electronic Arts,77.0,8.2,0.06,0.03,0.03,0.05,0.17
+Game_0193,PC,1995.0,Sports,Indie,47.0,5.8,0.3,0.12,0.1,0.05,0.57
+Game_0194,PS5,2015.0,Sports,Electronic Arts,75.0,7.3,0.09,0.04,0.03,0.04,0.2
+Game_0195,Mobile,2022.0,Strategy,Microsoft,80.0,4.3,0.0,0.0,0.0,0.01,0.01
+Game_0196,Switch,2008.0,Sports,Indie,91.0,7.1,1.92,1.18,0.46,0.36,3.92
+Game_0197,PS5,2001.0,Puzzle,Ubisoft,76.0,,0.24,0.08,0.02,0.17,0.51
+Game_0198,Xbox,2024.0,Action,Sony,56.0,9.7,0.48,0.29,0.18,0.09,1.04
+Game_0199,Xbox,2000.0,RPG,Electronic Arts,73.0,7.3,0.02,0.01,0.0,0.01,0.04
+Game_0200,Switch,2024.0,Shooter,Electronic Arts,48.0,6.4,0.04,0.05,0.02,0.02,0.13
+Game_0201,Xbox,2002.0,Racing,Ubisoft,48.0,7.7,0.26,0.09,0.04,0.12,0.51
+Game_0202,Switch,2012.0,Strategy,Microsoft,76.0,7.3,1.96,1.82,0.45,2.62,6.85
+Game_0203,Switch,2002.0,RPG,Sony,80.0,5.7,0.39,0.24,0.14,0.03,0.8
+Game_0204,PC,,Adventure,Indie,76.0,7.0,0.08,0.05,0.01,0.15,0.29
+Game_0205,PS4,1996.0,Racing,,89.0,9.7,0.24,0.13,0.05,0.19,0.61
+Game_0206,PC,2007.0,Racing,Sony,83.0,7.6,0.03,0.02,0.01,0.03,0.09
+Game_0207,PS5,2001.0,Action,Ubisoft,80.0,4.9,0.06,0.04,0.0,0.03,0.13
+Game_0208,PS5,2023.0,RPG,Sony,52.0,6.7,0.58,0.31,0.2,0.21,1.3
+Game_0209,PS4,2023.0,Simulation,Ubisoft,64.0,7.6,0.28,0.1,0.07,0.08,0.53
+Game_0210,PS5,2015.0,Simulation,Sony,,6.9,0.21,0.18,0.12,0.12,0.63
+Game_0211,PS5,2019.0,RPG,Electronic Arts,54.0,9.0,0.88,0.33,0.08,0.8,2.09
+Game_0212,Mobile,2003.0,Sports,Electronic Arts,57.0,,0.2,0.19,0.08,0.16,0.63
+Game_0213,PC,2018.0,RPG,Indie,53.0,,0.03,0.01,0.01,0.03,0.08
+Game_0214,PS4,2010.0,Shooter,Nintendo,64.0,6.2,1.45,0.85,0.45,0.72,3.47
+Game_0215,Xbox,1998.0,Action,Nintendo,75.0,7.0,0.6,0.25,0.14,0.12,1.11
+Game_0216,PC,2016.0,RPG,Nintendo,88.0,8.7,0.48,0.38,0.18,0.71,1.75
+Game_0217,PS4,2003.0,RPG,Ubisoft,73.0,4.8,0.09,0.07,0.03,0.07,0.26
+Game_0218,PS5,2007.0,Puzzle,Sony,68.0,5.8,0.25,0.22,0.06,0.35,0.88
+Game_0219,Mobile,1996.0,Strategy,Electronic Arts,59.0,,1.16,1.06,0.55,0.53,3.3
+Game_0220,PC,2013.0,Action,Take-Two,90.0,9.1,0.06,0.07,0.04,0.07,0.24
+Game_0221,PC,2002.0,Shooter,Ubisoft,,6.1,0.4,0.32,0.25,0.39,1.36
+Game_0222,PS4,2025.0,Sports,Nintendo,,7.8,1.51,0.45,0.51,0.3,2.77
+Game_0223,Xbox,1998.0,Strategy,Ubisoft,59.0,5.4,1.38,0.74,0.34,2.35,4.81
+Game_0224,Mobile,1999.0,Sports,Ubisoft,56.0,7.8,0.03,0.02,0.02,0.05,0.12
+Game_0225,PS4,2014.0,Shooter,Sony,76.0,,0.06,0.04,0.01,0.03,0.14
+Game_0226,Mobile,2016.0,RPG,Electronic Arts,74.0,6.6,0.1,0.04,0.02,0.03,0.19
+Game_0227,Xbox,2017.0,Sports,Ubisoft,89.0,6.4,0.19,0.13,0.08,0.1,0.5
+Game_0228,Mobile,2022.0,Platform,Ubisoft,64.0,8.8,0.22,0.11,0.04,0.06,0.43
+Game_0229,Mobile,1998.0,Sports,Electronic Arts,70.0,8.0,0.24,0.13,0.08,0.14,0.59
+Game_0230,Mobile,2011.0,Simulation,Ubisoft,66.0,8.4,0.31,0.23,0.12,0.22,0.88
+Game_0231,PC,2009.0,Action,Microsoft,86.0,8.7,0.1,0.06,0.01,0.03,0.2
+Game_0232,Mobile,2010.0,RPG,Indie,62.0,6.9,0.35,0.28,0.08,0.29,1.0
+Game_0233,Xbox,1995.0,Simulation,Sony,83.0,8.4,0.03,0.04,0.01,0.05,0.13
+Game_0234,PC,2005.0,Sports,Sony,72.0,9.6,0.15,0.14,0.03,0.08,0.4
+Game_0235,PC,2018.0,Sports,Electronic Arts,80.0,6.5,0.03,0.02,0.01,0.03,0.09
+Game_0236,PC,2011.0,Shooter,Ubisoft,90.0,8.3,1.01,0.77,0.24,1.64,3.66
+Game_0237,PS4,2009.0,RPG,Indie,79.0,6.4,0.01,0.0,0.0,0.01,0.02
+Game_0238,PC,2018.0,Adventure,Electronic Arts,,9.1,0.07,0.05,0.03,0.1,0.25
+Game_0239,PS4,2025.0,Shooter,Sony,77.0,7.8,0.03,0.02,0.01,0.02,0.08
+Game_0240,PC,2018.0,Shooter,Indie,49.0,5.2,0.4,0.32,0.17,0.08,0.97
+Game_0241,PC,2013.0,Racing,Take-Two,,,0.49,0.19,0.12,0.31,1.11
+Game_0242,PC,2014.0,Puzzle,Microsoft,,6.3,0.2,0.07,0.02,0.1,0.39
+Game_0243,PC,2022.0,Platform,Sony,61.0,8.2,0.04,0.03,0.01,0.05,0.13
+Game_0244,Mobile,2014.0,Sports,Nintendo,70.0,6.8,0.03,0.02,0.01,0.02,0.08
+Game_0245,Xbox,2017.0,Action,Sony,61.0,6.9,0.07,0.04,0.02,0.06,0.19
+Game_0246,Xbox,2019.0,Action,Ubisoft,78.0,7.9,0.28,0.12,0.09,0.03,0.52
+Game_0247,Mobile,2019.0,Sports,Electronic Arts,76.0,6.4,0.73,0.63,0.08,0.77,2.21
+Game_0248,PS4,1997.0,Action,Ubisoft,84.0,3.2,0.35,0.17,0.06,0.3,0.88
+Game_0249,Mobile,1995.0,Action,Sony,81.0,6.3,0.61,0.58,0.33,0.43,1.95
+Game_0250,Xbox,2012.0,RPG,Take-Two,81.0,6.2,0.25,0.12,0.06,0.04,0.47
+Game_0251,PS4,1998.0,Platform,Microsoft,54.0,9.1,0.2,0.07,0.07,0.1,0.44
+Game_0252,Xbox,2025.0,Action,Electronic Arts,69.0,4.7,0.32,0.27,0.07,0.15,0.81
+Game_0253,PS4,2012.0,Action,Microsoft,47.0,9.5,5.67,3.45,0.99,5.16,15.272100433018661
+Game_0254,PC,2005.0,Puzzle,Sony,80.0,7.2,0.12,0.07,0.03,0.01,0.23
+Game_0255,PC,2010.0,Strategy,Ubisoft,72.0,7.6,0.63,0.33,0.04,0.15,1.15
+Game_0256,Mobile,2019.0,Adventure,Microsoft,76.0,6.8,0.36,0.16,0.15,0.09,0.76
+Game_0257,PS5,2004.0,Shooter,Ubisoft,71.0,6.8,0.11,0.07,0.01,0.06,0.25
+Game_0258,Switch,2008.0,Puzzle,Microsoft,76.0,6.2,0.55,0.17,0.18,0.12,1.02
+Game_0259,PS4,2023.0,Platform,Indie,46.0,9.8,0.15,0.05,0.01,0.06,0.27
+Game_0260,PC,2004.0,Sports,Sony,77.0,6.0,0.12,0.14,0.03,0.12,0.41
+Game_0261,PS4,2012.0,Platform,Microsoft,95.0,7.7,0.15,0.05,0.03,0.07,0.3
+Game_0262,PC,2006.0,Sports,Electronic Arts,77.0,7.3,0.26,0.16,0.05,0.07,0.54
+Game_0263,Switch,1998.0,Shooter,Ubisoft,66.0,7.1,0.67,0.44,0.26,0.0,1.37
+Game_0264,PS4,2020.0,Racing,Nintendo,,8.4,0.05,0.03,0.01,0.02,0.11
+Game_0265,Switch,2005.0,Strategy,Microsoft,77.0,7.8,0.45,0.13,0.05,0.21,0.84
+Game_0266,PC,2014.0,RPG,Electronic Arts,77.0,4.6,0.17,0.13,0.07,0.02,0.39
+Game_0267,PC,2000.0,Sports,Electronic Arts,98.0,4.7,0.09,0.06,0.03,0.04,0.22
+Game_0268,PC,2018.0,Action,Indie,78.0,6.3,0.06,0.03,0.02,0.01,0.12
+Game_0269,Mobile,2021.0,Simulation,Ubisoft,,9.0,0.3,0.2,0.04,0.57,1.11
+Game_0270,PS5,2006.0,Sports,Electronic Arts,61.0,,0.12,0.1,0.02,0.1,0.34
+Game_0271,Xbox,1995.0,Action,Electronic Arts,87.0,6.5,0.33,0.21,0.12,0.03,0.69
+Game_0272,PS4,2004.0,Puzzle,Microsoft,51.0,,0.2,0.15,0.03,0.37,0.75
+Game_0273,PS5,2022.0,Platform,Sony,66.0,5.4,1.02,0.51,0.24,1.28,3.05
+Game_0274,PC,2000.0,Adventure,Microsoft,63.0,7.5,1.15,0.89,0.24,0.62,2.9
+Game_0275,Xbox,2000.0,Shooter,Electronic Arts,85.0,7.4,0.73,0.5,0.29,0.0,1.51
+Game_0276,PS4,2025.0,Strategy,Indie,69.0,6.1,0.73,0.4,0.1,0.38,1.61
+Game_0277,Mobile,2001.0,Action,Ubisoft,74.0,6.9,3.36,1.22,0.57,1.71,6.86
+Game_0278,Switch,2006.0,Action,Nintendo,48.0,7.7,0.47,0.24,0.13,0.02,0.86
+Game_0279,Switch,2005.0,Shooter,Microsoft,65.0,9.4,0.52,0.29,0.08,0.3,1.19
+Game_0280,PC,2019.0,Shooter,Indie,72.0,9.7,0.48,0.27,0.08,0.24,1.07
+Game_0281,PS4,2012.0,Adventure,Electronic Arts,71.0,10.0,0.09,0.06,0.05,0.06,0.26
+Game_0282,PC,2007.0,Action,Electronic Arts,72.0,6.1,0.3,0.1,0.09,0.1,0.59
+Game_0283,Mobile,2021.0,Action,Nintendo,80.0,3.9,0.16,0.15,0.03,0.31,0.65
+Game_0284,PS5,2011.0,Adventure,Indie,75.0,7.2,0.31,0.15,0.11,0.12,0.69
+Game_0285,PS4,2017.0,Simulation,Sony,,5.4,0.19,0.21,0.03,0.26,0.69
+Game_0286,PS5,2021.0,Simulation,Take-Two,65.0,7.7,0.22,0.17,0.02,0.1,0.51
+Game_0287,PC,2013.0,Adventure,Indie,70.0,6.5,0.63,0.28,0.18,0.18,1.27
+Game_0288,Mobile,2001.0,Platform,Take-Two,66.0,6.0,0.08,0.04,0.01,0.02,0.15
+Game_0289,PS4,2015.0,Sports,Microsoft,92.0,6.9,0.32,0.19,0.18,0.24,0.93
+Game_0290,PS4,2011.0,Racing,Electronic Arts,89.0,8.5,0.11,0.04,0.03,0.05,0.23
+Game_0291,Switch,1997.0,Shooter,Nintendo,55.0,7.6,0.01,0.01,0.0,0.03,0.05
+Game_0292,PS4,2002.0,Shooter,Electronic Arts,55.0,7.0,0.05,0.03,0.01,0.01,0.1
+Game_0293,Mobile,2020.0,Puzzle,Nintendo,84.0,5.9,0.27,0.16,0.07,0.0,0.5
+Game_0294,Switch,2025.0,Shooter,Indie,85.0,5.4,0.61,0.25,0.15,0.18,1.19
+Game_0295,PC,2019.0,Adventure,Take-Two,79.0,7.5,0.14,0.09,0.05,0.02,0.3
+Game_0296,PS4,2023.0,Sports,Microsoft,53.0,6.4,0.19,0.14,0.08,0.06,0.47
+Game_0297,PC,2005.0,Action,Microsoft,65.0,5.6,0.31,0.26,0.13,0.23,0.93
+Game_0298,PS4,2009.0,Action,Microsoft,64.0,7.8,0.12,0.1,0.04,0.1,0.36
+Game_0299,PS5,2005.0,Sports,Sony,69.0,7.0,0.34,0.21,0.1,0.41,1.06
+Game_0300,Switch,2003.0,Adventure,Nintendo,,6.6,0.93,0.91,0.27,0.67,2.78
+Game_0301,PS5,1995.0,Adventure,Indie,51.0,,0.8,0.56,0.38,0.29,2.03
+Game_0302,Xbox,2014.0,Shooter,Electronic Arts,63.0,6.1,0.11,0.08,0.01,0.03,0.23
+Game_0303,PS4,2013.0,Action,Nintendo,65.0,8.4,0.08,0.04,0.02,0.02,0.16
+Game_0304,Switch,2021.0,Sports,Sony,45.0,7.2,2.45,0.9,0.49,1.16,5.0
+Game_0305,Switch,2014.0,Action,Nintendo,94.0,7.6,0.97,0.6,0.32,0.26,2.15
+Game_0306,PC,2015.0,Shooter,Ubisoft,94.0,7.2,1.39,0.53,0.16,0.83,2.91
+Game_0307,Switch,2009.0,Sports,Indie,61.0,8.4,0.34,0.19,0.15,0.11,0.79
+Game_0308,PC,2021.0,Shooter,Ubisoft,65.0,9.2,0.09,0.07,0.05,0.07,0.28
+Game_0309,Xbox,2004.0,Sports,Electronic Arts,65.0,5.2,0.59,0.24,0.11,0.33,1.27
+Game_0310,PC,2020.0,Action,Sony,62.0,8.7,0.09,0.05,0.01,0.01,0.16
+Game_0311,PC,2013.0,Action,Electronic Arts,79.0,6.6,0.21,0.07,0.03,0.11,0.42
+Game_0312,Mobile,1999.0,Simulation,Ubisoft,58.0,7.5,0.36,0.32,0.18,0.2,1.06
+Game_0313,Mobile,2019.0,Sports,Indie,84.0,7.4,0.32,0.19,0.04,0.18,0.73
+Game_0314,PS4,2009.0,Simulation,Electronic Arts,80.0,6.3,0.07,0.06,0.02,0.07,0.22
+Game_0315,PS5,2000.0,Simulation,Indie,72.0,6.2,0.37,0.26,0.13,0.29,1.05
+Game_0316,PS5,2002.0,Action,Indie,97.0,,0.18,0.08,0.07,0.09,0.42
+Game_0317,PS5,2011.0,Shooter,Indie,83.0,6.2,0.7,0.35,0.21,0.01,1.27
+Game_0318,PS5,1996.0,Sports,Nintendo,67.0,8.0,0.22,0.11,0.06,0.02,0.41
+Game_0319,PC,2013.0,Action,Nintendo,69.0,4.9,0.13,0.12,0.07,0.19,0.51
+Game_0320,PS5,1998.0,Action,Nintendo,87.0,6.8,0.09,0.04,0.02,0.03,0.18
+Game_0321,PC,2017.0,Simulation,Microsoft,62.0,8.9,2.55,0.95,0.57,0.69,4.76
+Game_0322,PC,2024.0,Racing,Sony,58.0,6.8,1.67,0.56,0.48,0.69,3.4
+Game_0323,Mobile,2018.0,Shooter,Indie,83.0,5.7,0.07,0.05,0.01,0.09,0.22
+Game_0324,Xbox,2021.0,Adventure,Nintendo,,6.9,0.14,0.11,0.06,0.02,0.33
+Game_0325,Switch,2019.0,Sports,Sony,63.0,5.6,1.0,0.62,0.31,0.36,2.29
+Game_0326,Xbox,2022.0,Adventure,Take-Two,97.0,8.1,0.06,0.02,0.01,0.06,0.15
+Game_0327,PS5,2000.0,RPG,Microsoft,67.0,7.2,0.57,0.47,0.31,0.47,1.82
+Game_0328,Xbox,2000.0,Sports,Ubisoft,86.0,6.7,0.52,0.51,0.18,0.26,1.47
+Game_0329,Mobile,2002.0,Simulation,Electronic Arts,78.0,8.0,0.17,0.09,0.04,0.04,0.34
+Game_0330,Mobile,2003.0,Racing,Ubisoft,62.0,6.9,0.67,0.41,0.07,0.85,2.0
+Game_0331,PS4,1995.0,RPG,Electronic Arts,71.0,6.0,0.27,0.15,0.09,0.36,0.87
+Game_0332,Mobile,2003.0,Simulation,Electronic Arts,40.0,6.6,0.21,0.19,0.06,0.22,0.68
+Game_0333,Switch,2017.0,Shooter,Indie,85.0,5.9,0.37,0.14,0.03,0.26,0.8
+Game_0334,PS5,2008.0,Adventure,Nintendo,,5.5,0.4,0.13,0.04,0.18,0.75
+Game_0335,PS4,2024.0,Adventure,Indie,,7.9,0.05,0.03,0.03,0.05,0.16
+Game_0336,PS5,2020.0,Shooter,Nintendo,62.0,6.1,0.24,0.13,0.06,0.19,0.62
+Game_0337,PS5,2015.0,Racing,Electronic Arts,70.0,,2.61,2.65,0.71,1.76,7.725840868891755
+Game_0338,PS4,2012.0,Sports,Nintendo,54.0,8.3,0.14,0.12,0.06,0.1,0.42
+Game_0339,Xbox,2001.0,Platform,Ubisoft,63.0,5.1,0.23,0.21,0.15,0.34,0.93
+Game_0340,PC,2013.0,Puzzle,Sony,,5.9,0.2,0.13,0.04,0.01,0.38
+Game_0341,PS5,2007.0,Puzzle,Ubisoft,79.0,6.2,0.23,0.22,0.13,0.1,0.68
+Game_0342,PS4,2021.0,Puzzle,Indie,90.0,9.2,0.52,0.39,0.06,0.15,1.12
+Game_0343,PS5,2017.0,Action,Microsoft,86.0,6.8,0.13,0.07,0.03,0.01,0.24
+Game_0344,Switch,2006.0,Strategy,Ubisoft,75.0,7.2,0.19,0.08,0.09,0.13,0.49
+Game_0345,PS5,2024.0,Adventure,Ubisoft,40.0,7.1,0.05,0.05,0.02,0.07,0.19
+Game_0346,Xbox,2022.0,Sports,Electronic Arts,91.0,,0.22,0.09,0.06,0.04,0.41
+Game_0347,Switch,2023.0,Sports,Take-Two,75.0,7.5,0.71,0.41,0.05,0.18,1.35
+Game_0348,Mobile,2025.0,RPG,Sony,100.0,8.2,0.26,0.14,0.17,0.36,0.93
+Game_0349,PC,2001.0,Action,Microsoft,97.0,9.4,0.03,0.02,0.0,0.02,0.07
+Game_0350,PS5,2010.0,Racing,Nintendo,81.0,6.7,0.09,0.06,0.03,0.01,0.19
+Game_0351,PS5,2015.0,Action,Indie,76.0,7.8,0.24,0.27,0.06,0.25,0.82
+Game_0352,PS5,2015.0,Adventure,Indie,69.0,,0.01,0.0,0.0,0.01,0.02
+Game_0353,PS5,2024.0,Action,Take-Two,58.0,7.1,0.14,0.06,0.03,0.09,0.32
+Game_0354,Xbox,2019.0,Shooter,Nintendo,64.0,10.0,0.05,0.05,0.01,0.04,0.15
+Game_0355,PS4,2001.0,Action,Ubisoft,72.0,9.7,0.25,0.15,0.08,0.01,0.49
+Game_0356,PC,2001.0,Adventure,Electronic Arts,59.0,9.1,0.02,0.01,0.0,0.01,0.04
+Game_0357,PS5,2002.0,RPG,Ubisoft,69.0,5.3,0.17,0.1,0.04,0.02,0.33
+Game_0358,PS5,2006.0,Sports,Nintendo,86.0,,0.2,0.13,0.08,0.03,0.44
+Game_0359,Switch,1997.0,RPG,Electronic Arts,59.0,,0.02,0.01,0.01,0.02,0.06
+Game_0360,PC,1996.0,Sports,Ubisoft,70.0,7.2,0.26,0.28,0.09,0.23,0.86
+Game_0361,PC,2015.0,Strategy,Indie,68.0,4.7,0.33,0.16,0.07,0.17,0.73
+Game_0362,Xbox,2024.0,Action,Indie,74.0,7.4,0.39,0.17,0.06,0.48,1.1
+Game_0363,PC,2025.0,Racing,Microsoft,60.0,9.9,0.06,0.04,0.02,0.02,0.14
+Game_0364,Xbox,2009.0,Racing,Nintendo,67.0,9.3,0.2,0.22,0.09,0.17,0.68
+Game_0365,PC,2001.0,Puzzle,Sony,42.0,8.2,0.21,0.13,0.01,0.08,0.43
+Game_0366,Xbox,2010.0,Shooter,Indie,70.0,7.2,0.62,0.43,0.08,0.11,1.24
+Game_0367,PS5,2018.0,Simulation,Electronic Arts,81.0,7.1,0.55,0.31,0.08,0.08,1.02
+Game_0368,PC,1997.0,Action,Nintendo,81.0,7.5,0.11,0.06,0.04,0.05,0.26
+Game_0369,Xbox,1997.0,Platform,Ubisoft,87.0,,0.17,0.14,0.05,0.19,0.55
+Game_0370,PC,2022.0,RPG,Ubisoft,59.0,6.4,0.52,0.16,0.11,0.21,1.0
+Game_0371,Switch,2019.0,Shooter,Indie,76.0,7.3,0.11,0.13,0.04,0.14,0.42
+Game_0372,Mobile,2006.0,Action,Indie,74.0,9.9,0.45,0.28,0.18,0.29,1.2
+Game_0373,PS5,2021.0,Racing,Nintendo,69.0,7.9,0.28,0.18,0.06,0.24,0.76
+Game_0374,PS4,2001.0,Sports,Microsoft,77.0,7.4,0.26,0.18,0.12,0.07,0.63
+Game_0375,Switch,2004.0,Platform,Ubisoft,73.0,8.6,0.09,0.06,0.01,0.1,0.26
+Game_0376,PS5,2008.0,Action,Take-Two,60.0,9.4,0.07,0.05,0.03,0.04,0.19
+Game_0377,Xbox,2020.0,Simulation,Indie,94.0,8.7,0.02,0.02,0.01,0.0,0.05
+Game_0378,PC,2008.0,Shooter,Take-Two,93.0,5.6,0.02,0.01,0.01,0.01,0.05
+Game_0379,PS5,1999.0,RPG,Sony,57.0,9.5,0.03,0.03,0.02,0.02,0.1
+Game_0380,PS5,2014.0,Strategy,Nintendo,,8.3,0.16,0.11,0.08,0.18,0.53
+Game_0381,Xbox,1996.0,Action,Indie,64.0,5.3,0.05,0.06,0.03,0.07,0.21
+Game_0382,Xbox,2010.0,Sports,Indie,83.0,6.6,0.18,0.11,0.01,0.03,0.33
+Game_0383,Xbox,2025.0,Sports,Microsoft,62.0,4.0,0.21,0.14,0.06,0.2,0.61
+Game_0384,Mobile,2003.0,Action,Indie,57.0,5.9,0.02,0.0,0.0,0.01,0.03
+Game_0385,Mobile,1995.0,Shooter,Ubisoft,79.0,6.9,0.16,0.07,0.07,0.08,0.38
+Game_0386,PC,1998.0,RPG,Ubisoft,66.0,7.5,1.91,1.18,0.81,0.67,4.57
+Game_0387,Xbox,2025.0,RPG,Indie,76.0,6.5,0.13,0.09,0.03,0.17,0.42
+Game_0388,PS5,1999.0,Puzzle,Ubisoft,67.0,7.3,0.05,0.05,0.02,0.07,0.19
+Game_0389,PS5,2003.0,Strategy,Sony,58.0,6.3,0.11,0.08,0.01,0.07,0.27
+Game_0390,Switch,2013.0,Action,Ubisoft,39.0,7.6,0.04,0.02,0.01,0.05,0.12
+Game_0391,PS4,2017.0,Adventure,Electronic Arts,85.0,7.0,0.35,0.13,0.11,0.06,0.65
+Game_0392,PS4,2017.0,Shooter,Ubisoft,77.0,7.9,2.44,1.33,0.86,0.5,5.13
+Game_0393,PC,2017.0,Strategy,Take-Two,44.0,8.4,1.31,0.84,0.16,2.36,4.67
+Game_0394,Switch,,Shooter,Take-Two,58.0,8.1,0.02,0.02,0.0,0.02,0.06
+Game_0395,Mobile,2021.0,Strategy,Nintendo,69.0,6.7,0.12,0.07,0.03,0.05,0.27
+Game_0396,Xbox,2012.0,Adventure,Ubisoft,89.0,4.6,0.52,0.32,0.11,0.2,1.15
+Game_0397,Switch,2014.0,RPG,Indie,81.0,7.7,0.11,0.05,0.02,0.08,0.26
+Game_0398,PC,2018.0,Racing,Indie,83.0,5.0,2.66,1.68,0.42,0.22,4.98
+Game_0399,PS5,1995.0,Strategy,Ubisoft,77.0,8.1,0.04,0.05,0.02,0.04,0.15
+Game_0400,PS4,1996.0,Strategy,Indie,72.0,8.7,0.6,0.33,0.2,0.03,1.16
+Game_0401,Switch,1999.0,RPG,Take-Two,74.0,8.5,0.14,0.08,0.03,0.09,0.34
+Game_0402,PC,2019.0,RPG,Ubisoft,78.0,8.8,0.1,0.06,0.01,0.03,0.2
+Game_0403,PS5,2022.0,Shooter,Sony,,8.6,0.01,0.01,0.01,0.02,0.05
+Game_0404,Mobile,2001.0,Action,Electronic Arts,45.0,5.8,0.16,0.16,0.1,0.15,0.57
+Game_0405,PC,1999.0,Action,Nintendo,77.0,5.2,0.64,0.3,0.26,0.1,1.3
+Game_0406,Switch,2019.0,Adventure,Electronic Arts,70.0,3.9,0.48,0.29,0.06,0.21,1.04
+Game_0407,PS4,2021.0,RPG,Microsoft,53.0,7.2,0.4,0.39,0.16,0.24,1.19
+Game_0408,Mobile,2013.0,Adventure,Take-Two,69.0,7.7,0.22,0.12,0.03,0.23,0.6
+Game_0409,PC,2023.0,Action,Indie,87.0,7.5,0.31,0.17,0.12,0.05,0.65
+Game_0410,Switch,2014.0,Adventure,Indie,60.0,6.9,0.99,0.44,0.23,0.43,2.09
+Game_0411,Mobile,2009.0,RPG,Nintendo,68.0,8.4,0.02,0.02,0.01,0.0,0.05
+Game_0412,Xbox,1998.0,Simulation,Indie,66.0,7.4,0.91,0.57,0.2,0.01,1.69
+Game_0413,PS5,2007.0,Puzzle,Nintendo,61.0,4.8,0.26,0.11,0.07,0.07,0.51
+Game_0414,Mobile,2022.0,Adventure,Nintendo,63.0,,0.05,0.03,0.02,0.01,0.11
+Game_0415,Switch,2018.0,Shooter,Electronic Arts,,8.8,0.34,0.13,0.03,0.18,0.68
+Game_0416,Xbox,2007.0,Action,Electronic Arts,83.0,7.7,0.03,0.02,0.0,0.01,0.06
+Game_0417,PS5,2023.0,Racing,Indie,73.0,5.0,0.46,0.31,0.15,0.17,1.09
+Game_0418,Switch,2006.0,Sports,Ubisoft,83.0,8.8,0.12,0.11,0.05,0.1,0.38
+Game_0419,Mobile,1996.0,Action,Electronic Arts,,,0.08,0.06,0.02,0.01,0.17
+Game_0420,Xbox,2021.0,Sports,Sony,73.0,,1.45,0.83,0.22,0.82,3.32
+Game_0421,PS4,2021.0,Action,Indie,52.0,6.4,0.02,0.01,0.01,0.01,0.05
+Game_0422,Mobile,2003.0,Sports,Electronic Arts,78.0,8.6,1.38,0.79,0.36,0.31,2.84
+Game_0423,PC,2011.0,Strategy,Indie,84.0,8.1,0.68,0.33,0.14,0.25,1.4
+Game_0424,PS5,2021.0,Racing,Take-Two,73.0,6.4,0.06,0.04,0.02,0.0,0.12
+Game_0425,Mobile,1998.0,RPG,Sony,85.0,6.4,0.15,0.11,0.04,0.05,0.35
+Game_0426,Xbox,2001.0,RPG,Take-Two,87.0,8.9,0.06,0.03,0.01,0.02,0.12
+Game_0427,PC,1995.0,Shooter,Sony,74.0,7.5,0.04,0.03,0.02,0.04,0.13
+Game_0428,PS4,2023.0,Action,Take-Two,78.0,5.5,4.16,1.47,0.6,1.67,7.9
+Game_0429,Mobile,1998.0,Puzzle,Ubisoft,,5.6,1.25,1.09,0.7,0.95,3.9912000598439983
+Game_0430,Mobile,,Simulation,Sony,62.0,6.3,0.2,0.18,0.05,0.12,0.55
+Game_0431,PS5,2021.0,Strategy,Electronic Arts,77.0,,0.39,0.43,0.16,0.43,1.41
+Game_0432,PS5,2021.0,Action,Electronic Arts,96.0,5.3,0.11,0.09,0.06,0.07,0.33
+Game_0433,PS5,2013.0,Action,Indie,64.0,9.4,0.06,0.07,0.03,0.06,0.22
+Game_0434,PS5,1995.0,Puzzle,Microsoft,97.0,,0.24,0.16,0.06,0.11,0.57
+Game_0435,PC,2024.0,Action,Microsoft,,,0.18,0.15,0.02,0.12,0.47
+Game_0436,PS5,2010.0,Action,Ubisoft,64.0,4.4,0.06,0.05,0.01,0.03,0.15
+Game_0437,Switch,1995.0,Racing,Microsoft,80.0,6.8,0.25,0.1,0.1,0.08,0.53
+Game_0438,PS4,2018.0,RPG,Electronic Arts,83.0,6.6,0.04,0.04,0.02,0.04,0.14
+Game_0439,PS5,2008.0,Shooter,Ubisoft,67.0,8.0,0.16,0.08,0.02,0.05,0.31
+Game_0440,Switch,2004.0,Shooter,Indie,76.0,6.3,0.2,0.2,0.03,0.17,0.6
+Game_0441,PS4,1996.0,Adventure,Take-Two,68.0,6.9,0.69,0.54,0.23,0.2,1.66
+Game_0442,PC,1997.0,Sports,Ubisoft,66.0,6.8,0.13,0.08,0.01,0.03,0.25
+Game_0443,Xbox,2024.0,Racing,Sony,78.0,7.0,0.04,0.02,0.02,0.03,0.11
+Game_0444,PC,2006.0,Sports,Electronic Arts,85.0,6.4,0.22,0.08,0.07,0.06,0.43
+Game_0445,PC,2007.0,RPG,Take-Two,62.0,6.1,0.42,0.24,0.13,0.0,0.78
+Game_0446,Switch,2011.0,Action,Electronic Arts,71.0,7.3,0.69,0.24,0.25,0.24,1.42
+Game_0447,PS5,2008.0,Adventure,Indie,99.0,8.6,0.24,0.15,0.06,0.01,0.46
+Game_0448,Xbox,1996.0,RPG,Indie,80.0,,0.08,0.02,0.02,0.02,0.14
+Game_0449,PS4,2019.0,Strategy,Microsoft,54.0,5.5,0.04,0.03,0.02,0.05,0.14
+Game_0450,Mobile,2000.0,Strategy,Electronic Arts,83.0,5.7,0.05,0.03,0.01,0.01,0.1
+Game_0451,PC,2013.0,Platform,Ubisoft,58.0,6.8,0.13,0.15,0.09,0.1,0.47
+Game_0452,Mobile,2013.0,Action,Electronic Arts,53.0,8.2,0.05,0.03,0.01,0.05,0.14
+Game_0453,Xbox,2000.0,RPG,Ubisoft,72.0,7.3,0.07,0.09,0.04,0.07,0.27
+Game_0454,Mobile,2013.0,Adventure,Electronic Arts,91.0,6.1,0.6,0.33,0.07,0.23,1.23
+Game_0455,PC,2000.0,Shooter,Microsoft,85.0,8.2,0.09,0.09,0.03,0.06,0.27
+Game_0456,PS5,2017.0,Action,Ubisoft,91.0,5.1,0.18,0.11,0.03,0.18,0.5
+Game_0457,PC,2017.0,Simulation,Electronic Arts,83.0,6.5,0.14,0.13,0.09,0.19,0.55
+Game_0458,Mobile,2004.0,Adventure,Indie,68.0,5.8,0.07,0.03,0.02,0.03,0.15
+Game_0459,PS5,2015.0,RPG,Nintendo,79.0,5.6,0.1,0.07,0.02,0.05,0.24
+Game_0460,PS5,2011.0,Action,Indie,96.0,5.1,0.42,0.15,0.07,0.28,0.92
+Game_0461,PS4,2003.0,Simulation,Nintendo,99.0,6.1,0.06,0.03,0.01,0.02,0.12
+Game_0462,Mobile,2017.0,Sports,Ubisoft,53.0,6.0,0.54,0.64,0.26,0.56,2.0
+Game_0463,PS4,1996.0,Puzzle,Sony,77.0,4.8,0.36,0.18,0.15,0.2,0.89
+Game_0464,PC,2014.0,Sports,Take-Two,64.0,4.9,0.52,0.25,0.21,0.1,1.08
+Game_0465,PS5,2004.0,RPG,Indie,85.0,5.9,0.14,0.06,0.01,0.07,0.28
+Game_0466,Xbox,2017.0,Action,Ubisoft,,7.7,0.08,0.03,0.02,0.05,0.18
+Game_0467,PS4,2003.0,Shooter,Take-Two,73.0,5.3,0.47,0.17,0.06,0.18,0.88
+Game_0468,PS5,1997.0,Adventure,Nintendo,64.0,7.5,2.38,1.86,0.2,0.93,5.37
+Game_0469,PS5,2025.0,Action,Nintendo,78.0,7.0,0.61,0.27,0.11,0.24,1.23
+Game_0470,PS4,2015.0,Shooter,Ubisoft,72.0,7.6,0.08,0.04,0.04,0.06,0.22
+Game_0471,PC,2016.0,Shooter,Ubisoft,75.0,4.7,0.02,0.01,0.01,0.02,0.06
+Game_0472,Xbox,2000.0,Adventure,Ubisoft,71.0,5.7,0.08,0.09,0.02,0.13,0.32
+Game_0473,Mobile,2010.0,Action,Ubisoft,,7.8,0.1,0.06,0.01,0.09,0.26
+Game_0474,PC,2007.0,Simulation,Microsoft,,9.7,0.04,0.02,0.02,0.05,0.13
+Game_0475,Switch,2000.0,Shooter,Electronic Arts,83.0,,0.08,0.06,0.02,0.05,0.21
+Game_0476,PS4,2009.0,Racing,Ubisoft,37.0,4.6,0.68,0.59,0.2,0.68,2.15
+Game_0477,PS5,2008.0,Racing,Ubisoft,70.0,7.4,0.05,0.07,0.01,0.07,0.2
+Game_0478,Xbox,1998.0,Simulation,Indie,67.0,8.9,0.25,0.13,0.02,0.21,0.61
+Game_0479,PC,2021.0,RPG,Electronic Arts,77.0,7.2,0.71,0.48,0.18,0.29,1.66
+Game_0480,PS5,1999.0,Racing,Nintendo,84.0,6.0,0.77,0.22,0.12,0.29,1.4
+Game_0481,Switch,2011.0,RPG,Electronic Arts,76.0,6.0,0.63,0.3,0.18,0.05,1.16
+Game_0482,PS4,1998.0,Shooter,Take-Two,74.0,8.4,0.06,0.04,0.01,0.03,0.14
+Game_0483,Mobile,2025.0,Action,Electronic Arts,67.0,10.0,0.38,0.15,0.09,0.24,0.86
+Game_0484,PS5,2003.0,Sports,Microsoft,,9.0,0.02,0.01,0.0,0.01,0.04
+Game_0485,PS5,2021.0,Action,Microsoft,97.0,7.9,0.05,0.03,0.01,0.02,0.11
+Game_0486,PS4,2017.0,Platform,Electronic Arts,78.0,7.7,0.24,0.17,0.05,0.51,0.97
+Game_0487,Switch,1998.0,Action,Indie,,6.9,0.49,0.32,0.11,0.32,1.24
+Game_0488,Switch,2004.0,Sports,Indie,78.0,7.2,0.61,0.26,0.04,0.43,1.34
+Game_0489,PS5,2021.0,Racing,Electronic Arts,66.0,6.8,0.23,0.17,0.02,0.17,0.59
+Game_0490,PC,2011.0,Action,Ubisoft,63.0,4.4,0.44,0.21,0.15,0.24,1.04
+Game_0491,PS5,2006.0,Strategy,Sony,62.0,3.6,0.17,0.11,0.02,0.01,0.31
+Game_0492,PS4,2022.0,Sports,Ubisoft,75.0,7.7,0.04,0.04,0.01,0.03,0.12
+Game_0493,PC,2015.0,Adventure,Indie,82.0,6.7,0.18,0.2,0.09,0.15,0.62
+Game_0494,PC,2000.0,Adventure,Indie,76.0,6.0,0.78,0.58,0.35,0.49,2.2
+Game_0495,Switch,2007.0,Racing,Sony,69.0,7.2,0.98,1.14,0.52,0.77,3.41
+Game_0496,PS5,2004.0,Racing,Microsoft,81.0,,0.27,0.16,0.18,0.31,0.92
+Game_0497,Mobile,2022.0,Strategy,Nintendo,68.0,5.5,0.04,0.02,0.02,0.01,0.09
+Game_0498,PS4,2013.0,Shooter,Microsoft,77.0,5.3,0.26,0.12,0.03,0.16,0.57
+Game_0499,PC,2023.0,Action,Electronic Arts,66.0,,0.14,0.12,0.08,0.07,0.41
+Game_0500,Switch,1995.0,Action,Ubisoft,77.0,5.6,0.1,0.04,0.03,0.05,0.22
+Game_0501,PC,2000.0,Simulation,Indie,61.0,7.1,0.32,0.14,0.05,0.08,0.59
+Game_0502,PS4,2014.0,RPG,Electronic Arts,52.0,7.0,0.1,0.05,0.03,0.01,0.19
+Game_0503,PS4,2013.0,Simulation,Indie,79.0,6.5,0.14,0.06,0.06,0.08,0.34
+Game_0504,PC,1999.0,RPG,Nintendo,91.0,6.6,0.51,0.28,0.14,0.4,1.33
+Game_0505,Mobile,1998.0,Action,Indie,67.0,6.9,0.05,0.03,0.01,0.03,0.12
+Game_0506,PS5,2024.0,RPG,Nintendo,40.0,6.8,0.52,0.36,0.23,0.14,1.25
+Game_0507,Xbox,2006.0,Shooter,Nintendo,87.0,5.3,0.09,0.05,0.02,0.11,0.27
+Game_0508,PS5,2024.0,Action,Nintendo,74.0,6.6,0.31,0.18,0.08,0.07,0.64
+Game_0509,Xbox,2017.0,Shooter,Take-Two,100.0,7.8,1.84,0.93,0.43,0.57,3.77
+Game_0510,Mobile,2006.0,Racing,Ubisoft,,9.2,0.1,0.07,0.04,0.02,0.23
+Game_0511,PC,2010.0,Shooter,Electronic Arts,66.0,8.9,0.16,0.11,0.02,0.09,0.38
+Game_0512,PS4,2008.0,Sports,Take-Two,,3.5,0.67,0.39,0.25,0.01,1.32
+Game_0513,PS4,2021.0,Platform,Microsoft,79.0,,0.27,0.15,0.08,0.43,0.93
+Game_0514,PC,2015.0,RPG,Nintendo,65.0,7.0,2.36,2.2,0.73,2.61,7.9
+Game_0515,Xbox,2019.0,Sports,Microsoft,93.0,5.4,0.5,0.24,0.25,0.28,1.27
+Game_0516,Mobile,2012.0,Platform,Sony,81.0,6.6,0.23,0.16,0.08,0.05,0.52
+Game_0517,Switch,2017.0,Sports,,63.0,8.8,0.09,0.03,0.02,0.03,0.17
+Game_0518,PS4,2024.0,Strategy,Indie,90.0,,0.31,0.2,0.1,0.07,0.68
+Game_0519,PS5,2012.0,Sports,Ubisoft,56.0,6.3,2.24,2.11,0.23,1.49,6.07
+Game_0520,PC,2022.0,Action,Sony,80.0,5.9,0.22,0.13,0.08,0.34,0.77
+Game_0521,Mobile,2009.0,Adventure,Ubisoft,56.0,6.7,0.04,0.02,0.0,0.06,0.12
+Game_0522,Switch,2021.0,Puzzle,Electronic Arts,86.0,6.5,0.12,0.11,0.07,0.06,0.36
+Game_0523,Switch,2025.0,Puzzle,Take-Two,62.0,5.6,0.13,0.04,0.04,0.03,0.24
+Game_0524,PS4,2009.0,Strategy,Microsoft,66.0,4.6,0.35,0.15,0.07,0.1,0.67
+Game_0525,PC,2016.0,Shooter,Nintendo,77.0,5.6,0.17,0.08,0.01,0.11,0.37
+Game_0526,Xbox,2011.0,Adventure,Indie,77.0,7.3,0.12,0.04,0.02,0.06,0.24
+Game_0527,PS4,2022.0,Puzzle,Indie,77.0,3.7,0.08,0.05,0.0,0.02,0.15
+Game_0528,PC,2000.0,Platform,Ubisoft,74.0,5.5,0.18,0.11,0.02,0.05,0.36
+Game_0529,PS4,2018.0,RPG,Electronic Arts,60.0,10.0,0.34,0.23,0.03,0.22,0.82
+Game_0530,Xbox,2021.0,Puzzle,Electronic Arts,70.0,7.7,0.81,0.32,0.07,0.37,1.57
+Game_0531,PC,2005.0,Adventure,Take-Two,73.0,9.6,0.11,0.09,0.02,0.05,0.27
+Game_0532,PS5,2007.0,Simulation,Electronic Arts,77.0,8.4,0.47,0.43,0.26,0.66,1.82
+Game_0533,PS5,2024.0,Action,Indie,,8.4,0.26,0.15,0.03,0.22,0.6573971159277415
+Game_0534,Switch,2017.0,Platform,Ubisoft,82.0,8.0,1.55,1.0,0.26,0.4,3.21
+Game_0535,PS4,2016.0,Adventure,Electronic Arts,67.0,6.2,0.03,0.01,0.01,0.02,0.07
+Game_0536,Xbox,2003.0,Action,Indie,64.0,7.3,0.1,0.05,0.03,0.04,0.22
+Game_0537,PS4,1997.0,Sports,Indie,60.0,9.1,0.21,0.14,0.04,0.01,0.4
+Game_0538,PS4,2021.0,Action,Ubisoft,60.0,7.4,0.07,0.05,0.04,0.08,0.24
+Game_0539,PC,1998.0,Adventure,Electronic Arts,59.0,6.5,1.32,0.74,0.85,1.99,4.9
+Game_0540,PS4,2011.0,Strategy,Microsoft,64.0,6.9,0.1,0.07,0.04,0.02,0.23
+Game_0541,Mobile,2024.0,Sports,Microsoft,91.0,,1.7,0.77,0.71,1.36,4.54
+Game_0542,Switch,2010.0,Simulation,Indie,72.0,5.1,0.0,0.0,0.0,0.01,0.01
+Game_0543,Xbox,2014.0,Racing,Microsoft,,9.6,0.01,0.01,0.01,0.01,0.04
+Game_0544,Switch,2010.0,Action,Ubisoft,49.0,6.6,0.27,0.09,0.03,0.14,0.53
+Game_0545,PC,2001.0,Racing,Ubisoft,83.0,6.7,0.06,0.03,0.02,0.01,0.12
+Game_0546,Switch,1995.0,Sports,Electronic Arts,81.0,6.3,0.03,0.03,0.02,0.0,0.08
+Game_0547,Switch,2007.0,Action,Electronic Arts,50.0,7.2,0.12,0.06,0.03,0.08,0.29
+Game_0548,Xbox,2014.0,Shooter,Ubisoft,74.0,,0.09,0.06,0.02,0.07,0.24
+Game_0549,Mobile,2016.0,Sports,Microsoft,75.0,7.5,0.06,0.07,0.03,0.05,0.21
+Game_0550,PC,2006.0,Simulation,Indie,77.0,6.4,0.1,0.08,0.02,0.03,0.23
+Game_0551,PC,2006.0,Simulation,Indie,64.0,5.4,0.18,0.08,0.08,0.13,0.47
+Game_0552,Mobile,2013.0,Action,Electronic Arts,78.0,6.0,0.45,0.26,0.04,0.13,0.88
+Game_0553,PS4,2019.0,Sports,Take-Two,85.0,5.5,0.32,0.39,0.06,0.41,1.18
+Game_0554,Mobile,2018.0,Simulation,Nintendo,59.0,4.9,0.21,0.13,0.05,0.08,0.47
+Game_0555,PS4,2012.0,Strategy,Indie,,7.6,0.02,0.03,0.02,0.02,0.09
+Game_0556,PS4,2006.0,Simulation,Electronic Arts,80.0,7.6,0.07,0.06,0.01,0.02,0.16
+Game_0557,Switch,2011.0,Strategy,Sony,60.0,4.4,0.1,0.08,0.05,0.0,0.23
+Game_0558,PS4,1998.0,RPG,Electronic Arts,83.0,5.3,0.35,0.35,0.04,0.3,1.04
+Game_0559,PC,2019.0,Sports,Sony,72.0,8.4,0.04,0.04,0.02,0.03,0.13
+Game_0560,PS4,2012.0,Sports,Indie,84.0,,0.48,0.32,0.13,0.47,1.4
+Game_0561,PS5,1997.0,Simulation,Indie,33.0,8.7,0.03,0.01,0.01,0.04,0.09
+Game_0562,Mobile,2008.0,Shooter,Ubisoft,85.0,5.7,0.26,0.13,0.07,0.05,0.51
+Game_0563,Mobile,2010.0,RPG,Nintendo,79.0,3.6,0.1,0.08,0.03,0.1,0.31
+Game_0564,PC,2002.0,Adventure,Microsoft,81.0,4.5,0.4,0.19,0.14,0.27,1.0
+Game_0565,PS5,2018.0,Shooter,Take-Two,63.0,7.4,0.81,0.45,0.29,0.0,1.51
+Game_0566,Switch,2016.0,Sports,Indie,94.0,5.0,0.17,0.13,0.07,0.02,0.39
+Game_0567,PC,1997.0,Platform,Take-Two,62.0,9.0,0.12,0.06,0.05,0.02,0.25
+Game_0568,PC,2022.0,Adventure,Indie,84.0,6.9,0.31,0.4,0.04,0.48,1.23
+Game_0569,PC,2002.0,Adventure,Take-Two,71.0,7.5,0.08,0.06,0.03,0.05,0.22
+Game_0570,Mobile,2018.0,Puzzle,Ubisoft,47.0,7.8,0.17,0.23,0.12,0.13,0.65
+Game_0571,PS4,2017.0,Adventure,Indie,81.0,,0.26,0.15,0.08,0.08,0.57
+Game_0572,PC,2019.0,Platform,Electronic Arts,73.0,7.1,0.15,0.09,0.04,0.0,0.28
+Game_0573,PS5,2025.0,Strategy,Sony,62.0,7.5,0.06,0.05,0.02,0.08,0.21
+Game_0574,PC,2011.0,Strategy,Microsoft,70.0,4.3,0.54,0.21,0.07,0.38,1.2
+Game_0575,Xbox,2007.0,RPG,Microsoft,100.0,5.3,0.31,0.16,0.06,0.18,0.71
+Game_0576,PS5,2020.0,RPG,Microsoft,63.0,7.6,0.04,0.04,0.01,0.05,0.14
+Game_0577,Xbox,2020.0,Sports,Microsoft,85.0,7.1,0.06,0.03,0.01,0.01,0.11
+Game_0578,Mobile,2024.0,Action,Nintendo,70.0,6.4,13.64,7.2,5.11,0.0,25.762812460553103
+Game_0579,Xbox,2012.0,Action,Indie,75.0,5.8,1.41,1.16,0.72,1.33,4.62
+Game_0580,PS5,2010.0,Adventure,Take-Two,,7.9,0.16,0.15,0.06,0.05,0.42
+Game_0581,PC,2023.0,Adventure,Electronic Arts,84.0,7.3,0.17,0.07,0.07,0.09,0.4
+Game_0582,PS5,2016.0,Action,Microsoft,78.0,6.4,0.65,0.22,0.12,0.26,1.25
+Game_0583,PS4,2011.0,Action,Electronic Arts,59.0,9.8,0.1,0.04,0.03,0.07,0.24
+Game_0584,PS5,1999.0,Strategy,Sony,76.0,6.5,0.03,0.03,0.02,0.03,0.11
+Game_0585,PC,2016.0,Shooter,Sony,75.0,5.9,0.28,0.33,0.07,0.42,1.1
+Game_0586,Switch,2015.0,Strategy,Electronic Arts,64.0,,0.21,0.12,0.04,0.02,0.39
+Game_0587,PS4,2002.0,Action,Ubisoft,58.0,5.6,1.18,0.54,0.29,0.15,2.16
+Game_0588,Switch,2017.0,Simulation,Electronic Arts,88.0,6.0,0.3,0.12,0.11,0.09,0.62
+Game_0589,PS4,2025.0,RPG,Take-Two,57.0,7.5,0.51,0.19,0.15,0.34,1.19
+Game_0590,PS5,2019.0,Shooter,Nintendo,81.0,9.3,0.08,0.05,0.02,0.08,0.23
+Game_0591,Xbox,2023.0,Sports,Electronic Arts,62.0,6.3,0.23,0.24,0.07,0.38,0.92
+Game_0592,PS4,2025.0,Strategy,Nintendo,81.0,4.0,0.12,0.06,0.03,0.1,0.31
+Game_0593,PS5,2002.0,Platform,Microsoft,47.0,8.6,0.65,0.34,0.22,0.24,1.45
+Game_0594,Mobile,2023.0,RPG,Indie,84.0,6.9,0.88,0.62,0.2,0.93,2.63
+Game_0595,Mobile,2025.0,Action,Sony,68.0,8.3,0.18,0.11,0.07,0.06,0.42
+Game_0596,Switch,1998.0,Action,Indie,60.0,7.7,1.33,1.47,0.39,2.02,5.211304154445321
+Game_0597,Mobile,2011.0,Racing,Microsoft,98.0,8.8,0.02,0.01,0.01,0.02,0.06
+Game_0598,Xbox,2010.0,Shooter,Indie,72.0,7.1,1.09,0.84,0.59,1.54,4.06
+Game_0599,PS5,2005.0,Puzzle,Sony,75.0,4.4,2.29,1.19,0.28,1.34,5.1
+Game_0600,Mobile,2013.0,Action,Indie,74.0,6.8,0.87,0.56,0.17,0.52,2.12
+Game_0601,Switch,1997.0,Sports,Nintendo,82.0,9.2,0.04,0.03,0.01,0.04,0.12
+Game_0602,PC,1996.0,Adventure,Sony,65.0,,0.23,0.13,0.07,0.03,0.46
+Game_0603,Mobile,2008.0,Sports,Electronic Arts,93.0,8.7,0.08,0.04,0.02,0.04,0.18
+Game_0604,Mobile,2022.0,Shooter,Electronic Arts,62.0,7.3,0.19,0.12,0.06,0.23,0.6
+Game_0605,PS4,2009.0,Racing,Microsoft,65.0,5.4,0.11,0.09,0.04,0.08,0.32
+Game_0606,PS4,2025.0,Sports,Nintendo,75.0,9.2,0.18,0.09,0.05,0.05,0.37
+Game_0607,PS4,2013.0,Puzzle,Indie,100.0,5.5,0.01,0.01,0.0,0.02,0.04
+Game_0608,PS4,2003.0,RPG,Ubisoft,66.0,7.0,0.12,0.07,0.09,0.19,0.47
+Game_0609,PS5,2004.0,Strategy,Nintendo,,6.6,0.47,0.21,0.1,0.61,1.39
+Game_0610,PC,1999.0,Strategy,Electronic Arts,66.0,7.7,0.09,0.08,0.01,0.12,0.3
+Game_0611,Mobile,2023.0,Puzzle,,62.0,7.8,0.07,0.04,0.02,0.02,0.15
+Game_0612,Xbox,2024.0,Action,Ubisoft,76.0,10.0,0.06,0.04,0.01,0.06,0.17
+Game_0613,Mobile,2014.0,Racing,Nintendo,91.0,9.1,0.1,0.05,0.02,0.06,0.23
+Game_0614,Xbox,2007.0,Adventure,Electronic Arts,55.0,6.9,0.12,0.04,0.02,0.08,0.26
+Game_0615,PS5,2009.0,Simulation,Sony,75.0,6.6,0.09,0.06,0.01,0.09,0.25
+Game_0616,Switch,2004.0,Strategy,Electronic Arts,79.0,5.3,3.08,1.38,0.64,0.74,5.84
+Game_0617,PS5,2021.0,Sports,Ubisoft,69.0,8.1,0.13,0.07,0.02,0.01,0.23
+Game_0618,Mobile,1998.0,Racing,Microsoft,68.0,4.4,0.16,0.13,0.04,0.04,0.37
+Game_0619,PS4,1998.0,RPG,Take-Two,62.0,4.8,0.49,0.2,0.23,0.3,1.22
+Game_0620,PS4,2023.0,Action,Sony,67.0,6.8,0.16,0.12,0.11,0.2,0.59
+Game_0621,Xbox,2003.0,Adventure,Ubisoft,65.0,7.3,0.07,0.03,0.02,0.04,0.16
+Game_0622,PS5,1998.0,Racing,Ubisoft,84.0,6.4,0.14,0.06,0.03,0.02,0.25
+Game_0623,PS4,1996.0,Racing,Electronic Arts,64.0,7.9,0.18,0.15,0.05,0.06,0.44
+Game_0624,PS5,2015.0,Sports,Indie,76.0,6.4,0.24,0.13,0.08,0.28,0.73
+Game_0625,PC,2013.0,Adventure,Nintendo,89.0,9.0,0.04,0.04,0.01,0.03,0.12
+Game_0626,Xbox,2000.0,Adventure,Indie,59.0,7.6,0.56,0.34,0.07,0.35,1.32
+Game_0627,Xbox,2022.0,RPG,Electronic Arts,60.0,6.4,0.36,0.26,0.15,0.67,1.44
+Game_0628,PS5,2004.0,Racing,Indie,73.0,5.7,0.06,0.05,0.03,0.07,0.21
+Game_0629,PS4,2007.0,Platform,Indie,65.0,9.5,0.12,0.07,0.02,0.21,0.42
+Game_0630,PC,2017.0,Shooter,Microsoft,85.0,,0.56,0.27,0.04,0.19,1.06
+Game_0631,PS5,2004.0,RPG,Indie,82.0,4.8,0.14,0.07,0.02,0.07,0.3
+Game_0632,Switch,2019.0,Strategy,Indie,76.0,7.9,0.01,0.01,0.0,0.01,0.03
+Game_0633,PS4,1999.0,Simulation,Ubisoft,88.0,6.1,0.07,0.05,0.01,0.05,0.18
+Game_0634,PC,2003.0,Strategy,Nintendo,68.0,10.0,4.72,2.19,1.18,2.11,10.2
+Game_0635,PC,2018.0,Platform,Indie,74.0,6.2,0.07,0.03,0.03,0.04,0.17
+Game_0636,PS4,2002.0,Puzzle,Take-Two,88.0,5.1,0.13,0.06,0.07,0.1,0.36
+Game_0637,PS4,2012.0,Adventure,Indie,100.0,4.8,1.44,1.14,0.24,2.08,4.9
+Game_0638,PS4,2004.0,Adventure,Nintendo,67.0,4.2,0.11,0.06,0.03,0.06,0.26
+Game_0639,Xbox,2013.0,Action,Take-Two,68.0,8.0,0.09,0.07,0.02,0.06,0.24
+Game_0640,PS5,2011.0,Shooter,Take-Two,93.0,9.7,0.06,0.05,0.01,0.04,0.16
+Game_0641,PS4,2001.0,Racing,Take-Two,73.0,,0.46,0.18,0.17,0.07,0.88
+Game_0642,PS5,2012.0,Shooter,Indie,54.0,6.6,0.08,0.05,0.02,0.01,0.16
+Game_0643,Xbox,2014.0,RPG,Indie,78.0,5.4,0.53,0.23,0.19,0.47,1.42
+Game_0644,PC,2017.0,Action,Indie,,8.1,0.69,0.33,0.21,0.69,1.92
+Game_0645,Xbox,2024.0,RPG,Ubisoft,75.0,5.2,1.19,0.67,0.49,0.68,3.03
+Game_0646,Switch,1998.0,Sports,Electronic Arts,,6.2,0.77,0.36,0.17,0.84,2.14
+Game_0647,PS5,2009.0,Puzzle,Ubisoft,66.0,6.5,0.14,0.11,0.03,0.08,0.36
+Game_0648,PC,2014.0,Shooter,Nintendo,65.0,8.6,0.02,0.02,0.01,0.03,0.08
+Game_0649,Xbox,2000.0,Racing,Microsoft,63.0,8.1,0.04,0.06,0.02,0.05,0.17
+Game_0650,Xbox,2001.0,Action,Ubisoft,89.0,9.1,3.18,2.03,0.86,1.0,7.07
+Game_0651,Switch,2009.0,Racing,Nintendo,77.0,10.0,0.19,0.09,0.07,0.14,0.49
+Game_0652,PC,2002.0,Puzzle,Indie,39.0,6.8,0.4,0.35,0.05,0.25,1.05
+Game_0653,Xbox,2025.0,Sports,Ubisoft,85.0,9.9,0.04,0.03,0.01,0.01,0.09
+Game_0654,PS4,1995.0,Sports,Indie,78.0,9.3,0.56,0.54,0.08,0.71,1.89
+Game_0655,PC,2007.0,Puzzle,Sony,36.0,7.4,0.34,0.14,0.04,0.14,0.66
+Game_0656,Xbox,1996.0,RPG,Ubisoft,94.0,9.1,0.06,0.04,0.01,0.1,0.21
+Game_0657,PS4,2002.0,Puzzle,Electronic Arts,97.0,8.5,0.68,0.42,0.11,0.35,1.56
+Game_0658,Switch,2007.0,Puzzle,Take-Two,74.0,9.5,0.24,0.26,0.09,0.23,0.82
+Game_0659,PS5,2005.0,Platform,Electronic Arts,81.0,3.4,0.02,0.01,0.0,0.01,0.04
+Game_0660,PS4,,Simulation,Indie,67.0,5.7,0.58,0.22,0.16,0.11,1.07
+Game_0661,PS5,1996.0,Sports,Indie,66.0,,0.23,0.14,0.04,0.24,0.65
+Game_0662,PS4,2001.0,Adventure,Sony,88.0,7.4,0.04,0.02,0.02,0.04,0.12
+Game_0663,PS4,2017.0,Sports,Take-Two,67.0,7.4,0.16,0.1,0.01,0.04,0.31
+Game_0664,PC,2025.0,RPG,Electronic Arts,66.0,5.2,0.12,0.08,0.01,0.01,0.22
+Game_0665,Mobile,2023.0,Platform,Sony,79.0,6.0,1.1,0.55,0.37,0.24,2.26
+Game_0666,Switch,2023.0,Action,Take-Two,54.0,7.2,0.39,0.28,0.15,0.27,1.09
+Game_0667,Mobile,2015.0,RPG,Electronic Arts,67.0,6.8,0.14,0.09,0.08,0.15,0.46
+Game_0668,PS4,2015.0,Puzzle,Ubisoft,83.0,,0.25,0.14,0.05,0.09,0.53
+Game_0669,PS4,2021.0,Platform,Indie,49.0,6.4,0.4,0.22,0.12,0.09,0.83
+Game_0670,Switch,2000.0,RPG,Ubisoft,70.0,5.3,0.3,0.19,0.14,0.46,1.09
+Game_0671,Mobile,1997.0,Platform,Nintendo,67.0,7.9,0.86,0.69,0.18,0.34,2.07
+Game_0672,Switch,2006.0,Racing,Ubisoft,62.0,,1.36,0.59,0.61,0.92,3.48
+Game_0673,PC,2000.0,Racing,Electronic Arts,56.0,8.1,0.08,0.04,0.03,0.04,0.19
+Game_0674,Switch,2013.0,Sports,Nintendo,60.0,7.3,0.11,0.04,0.04,0.07,0.26
+Game_0675,PS4,2012.0,Shooter,Indie,63.0,8.3,0.19,0.08,0.04,0.15,0.46
+Game_0676,PC,1995.0,Action,Ubisoft,61.0,8.3,0.12,0.07,0.05,0.05,0.29
+Game_0677,PS5,2012.0,Shooter,Sony,68.0,4.8,0.61,0.22,0.09,0.51,1.43
+Game_0678,Mobile,2003.0,Shooter,Nintendo,66.0,5.2,0.07,0.08,0.03,0.05,0.23
+Game_0679,PS4,1999.0,Action,Ubisoft,58.0,3.5,0.17,0.13,0.02,0.12,0.44
+Game_0680,Switch,2002.0,Action,Nintendo,76.0,4.9,0.16,0.06,0.06,0.08,0.36
+Game_0681,PS4,2003.0,RPG,Nintendo,75.0,,0.59,0.4,0.19,0.15,1.33
+Game_0682,PC,1996.0,Sports,Sony,54.0,8.2,1.17,0.76,0.17,0.24,2.34
+Game_0683,Xbox,2007.0,Racing,Indie,85.0,7.7,0.08,0.04,0.04,0.06,0.22
+Game_0684,PS5,2008.0,Strategy,Electronic Arts,69.0,4.4,0.1,0.07,0.04,0.02,0.23
+Game_0685,PC,2002.0,Sports,Sony,,8.0,0.49,0.48,0.07,0.79,1.83
+Game_0686,Xbox,2022.0,Racing,Ubisoft,62.0,6.1,0.53,0.45,0.09,0.42,1.49
+Game_0687,Xbox,2005.0,Simulation,Microsoft,58.0,7.2,0.49,0.25,0.11,0.27,1.12
+Game_0688,PS5,2006.0,Shooter,Indie,72.0,7.0,2.11,1.28,0.23,0.64,4.26
+Game_0689,PC,2000.0,Strategy,Electronic Arts,59.0,,0.38,0.22,0.14,0.3,1.04
+Game_0690,Switch,2019.0,Puzzle,Microsoft,85.0,8.7,0.23,0.17,0.05,0.14,0.59
+Game_0691,Xbox,2011.0,Action,Indie,99.0,4.9,0.06,0.06,0.03,0.06,0.21
+Game_0692,PC,2016.0,Strategy,Microsoft,82.0,7.8,0.12,0.1,0.07,0.15,0.44
+Game_0693,Switch,1996.0,Racing,Ubisoft,72.0,8.9,0.39,0.31,0.19,0.54,1.43
+Game_0694,PS4,2012.0,Shooter,Nintendo,67.0,6.4,0.45,0.37,0.09,0.51,1.42
+Game_0695,Switch,2002.0,Adventure,Sony,61.0,6.1,0.05,0.07,0.03,0.05,0.2
+Game_0696,Mobile,2008.0,Simulation,Sony,69.0,5.6,0.05,0.02,0.02,0.04,0.13
+Game_0697,PC,2017.0,Racing,Ubisoft,61.0,7.3,0.01,0.01,0.01,0.01,0.04
+Game_0698,PS4,2004.0,Sports,Ubisoft,64.0,7.5,0.1,0.07,0.01,0.19,0.37
+Game_0699,Switch,1997.0,Adventure,Nintendo,89.0,7.4,0.46,0.33,0.17,0.39,1.35
+Game_0700,Mobile,2019.0,Adventure,Ubisoft,67.0,3.8,0.44,0.21,0.18,0.25,1.08
+Game_0701,Xbox,2011.0,Shooter,Sony,82.0,,0.18,0.09,0.05,0.17,0.49
+Game_0702,Xbox,2003.0,Action,Indie,85.0,8.2,0.09,0.06,0.02,0.01,0.18
+Game_0703,Mobile,2020.0,Puzzle,Indie,74.0,6.7,1.34,0.72,0.44,1.82,4.32
+Game_0704,PC,1995.0,Sports,Ubisoft,77.0,7.7,0.13,0.15,0.04,0.2,0.52
+Game_0705,Xbox,2002.0,RPG,Indie,74.0,5.0,0.21,0.12,0.06,0.09,0.48
+Game_0706,Xbox,2014.0,RPG,Ubisoft,61.0,7.5,1.28,0.84,0.35,0.01,2.48
+Game_0707,PS4,2021.0,Shooter,Electronic Arts,69.0,5.9,0.81,0.73,0.41,0.44,2.39
+Game_0708,Xbox,2025.0,Sports,Sony,81.0,7.5,0.24,0.13,0.03,0.29,0.69
+Game_0709,PS4,1995.0,Sports,Ubisoft,55.0,5.5,0.05,0.04,0.01,0.02,0.12
+Game_0710,PC,2017.0,Shooter,Electronic Arts,66.0,6.3,0.32,0.26,0.07,0.54,1.19
+Game_0711,PS4,2012.0,Action,Indie,77.0,7.7,0.61,0.22,0.28,0.33,1.44
+Game_0712,PC,2008.0,Platform,Microsoft,79.0,6.2,0.21,0.11,0.03,0.05,0.4
+Game_0713,Switch,2013.0,Action,Indie,73.0,7.2,1.62,1.15,0.19,0.63,3.59
+Game_0714,Mobile,2021.0,Puzzle,Microsoft,68.0,6.8,0.11,0.11,0.03,0.07,0.32
+Game_0715,PC,1995.0,Action,Indie,,8.8,0.3,0.15,0.18,0.33,0.96
+Game_0716,Mobile,2021.0,Sports,Sony,76.0,8.1,0.09,0.08,0.04,0.02,0.23
+Game_0717,PS5,2012.0,Racing,Microsoft,73.0,7.2,0.13,0.05,0.03,0.08,0.29
+Game_0718,PC,2010.0,Adventure,Indie,73.0,10.0,0.28,0.33,0.1,0.38,1.09
+Game_0719,PS5,2014.0,Adventure,Indie,76.0,7.5,1.54,0.91,0.5,0.43,3.38
+Game_0720,PS4,2006.0,Action,Electronic Arts,64.0,6.1,0.02,0.02,0.0,0.03,0.07
+Game_0721,Switch,1995.0,Simulation,Ubisoft,85.0,9.5,1.02,0.66,0.55,1.43,3.66
+Game_0722,Xbox,2001.0,Strategy,Take-Two,89.0,6.4,0.48,0.2,0.07,0.2,0.95
+Game_0723,PC,2021.0,Puzzle,Sony,69.0,,0.02,0.01,0.01,0.02,0.06
+Game_0724,PS5,2017.0,Platform,Nintendo,42.0,5.6,0.09,0.08,0.01,0.05,0.23
+Game_0725,Switch,,Adventure,Indie,57.0,6.8,0.66,0.32,0.18,0.64,1.8
+Game_0726,PS4,2000.0,Racing,,81.0,8.0,0.04,0.02,0.01,0.0,0.07
+Game_0727,Xbox,2021.0,Platform,Electronic Arts,59.0,4.4,0.1,0.03,0.03,0.05,0.21
+Game_0728,PC,2003.0,Adventure,Take-Two,78.0,6.8,0.54,0.47,0.08,0.68,1.77
+Game_0729,Xbox,2021.0,Strategy,Indie,56.0,4.7,1.44,1.74,1.06,1.14,5.38
+Game_0730,PS5,2014.0,Sports,Ubisoft,79.0,8.9,0.03,0.02,0.01,0.02,0.08
+Game_0731,PC,2016.0,Sports,Take-Two,74.0,7.0,0.37,0.15,0.06,0.26,0.84
+Game_0732,PS4,2014.0,Strategy,Electronic Arts,72.0,8.9,0.98,0.42,0.19,0.48,2.07
+Game_0733,Xbox,2009.0,Strategy,Indie,67.0,6.8,0.16,0.12,0.04,0.06,0.38
+Game_0734,Xbox,2025.0,Action,Sony,77.0,,0.16,0.12,0.01,0.08,0.37
+Game_0735,PS5,2025.0,Action,Electronic Arts,57.0,6.3,0.13,0.07,0.01,0.06,0.27
+Game_0736,PS4,1998.0,Shooter,Nintendo,76.0,10.0,0.22,0.12,0.12,0.31,0.77
+Game_0737,PS5,2008.0,RPG,Ubisoft,,7.0,0.14,0.16,0.07,0.16,0.53
+Game_0738,PS4,2014.0,Adventure,Nintendo,93.0,8.5,0.16,0.05,0.02,0.07,0.3
+Game_0739,Switch,1999.0,Platform,Ubisoft,46.0,5.7,0.09,0.03,0.02,0.04,0.18
+Game_0740,Xbox,2014.0,RPG,Microsoft,74.0,6.4,0.52,0.52,0.12,0.65,1.81
+Game_0741,PS4,1995.0,Racing,Take-Two,63.0,8.2,0.07,0.04,0.01,0.03,0.15
+Game_0742,PC,2010.0,Shooter,Ubisoft,78.0,8.8,0.15,0.09,0.09,0.15,0.48
+Game_0743,PS5,2007.0,Adventure,Microsoft,84.0,8.5,0.08,0.07,0.03,0.14,0.32
+Game_0744,Switch,2013.0,Action,Sony,54.0,,0.46,0.34,0.07,0.31,1.18
+Game_0745,PS5,2004.0,Strategy,Take-Two,90.0,4.6,0.58,0.57,0.08,0.51,1.74
+Game_0746,Xbox,2015.0,Sports,Microsoft,66.0,4.9,0.29,0.14,0.03,0.08,0.54
+Game_0747,PC,2012.0,Racing,Ubisoft,69.0,5.9,0.23,0.19,0.12,0.36,0.9
+Game_0748,PC,2024.0,Action,Microsoft,63.0,,0.1,0.07,0.03,0.07,0.27
+Game_0749,Mobile,2018.0,Sports,Electronic Arts,42.0,7.6,1.06,1.29,0.59,0.92,3.86
+Game_0750,Xbox,2007.0,Simulation,Indie,65.0,4.3,0.07,0.08,0.03,0.05,0.23
+Game_0751,PC,2014.0,Adventure,Indie,55.0,4.9,1.9,2.14,0.33,2.91,7.28
+Game_0752,Mobile,2004.0,Action,Electronic Arts,50.0,7.3,0.03,0.03,0.02,0.01,0.09
+Game_0753,Mobile,2010.0,Simulation,Take-Two,87.0,,0.17,0.07,0.04,0.04,0.32
+Game_0754,PS4,2002.0,RPG,Nintendo,86.0,,0.22,0.15,0.03,0.24,0.64
+Game_0755,PS5,2014.0,Action,Microsoft,76.0,9.5,0.2,0.12,0.03,0.04,0.39
+Game_0756,PS5,1997.0,Action,Indie,59.0,,0.01,0.01,0.0,0.01,0.03
+Game_0757,PS5,2013.0,Racing,Microsoft,86.0,8.2,0.81,0.44,0.22,0.54,2.01
+Game_0758,Xbox,2019.0,Simulation,Sony,73.0,7.1,0.1,0.08,0.04,0.08,0.3
+Game_0759,PS5,2009.0,Simulation,Ubisoft,68.0,6.4,1.13,0.49,0.34,0.2,2.16
+Game_0760,Switch,2005.0,Adventure,Indie,61.0,5.7,0.15,0.09,0.05,0.0,0.28
+Game_0761,Mobile,2012.0,Simulation,Ubisoft,73.0,4.5,0.24,0.29,0.03,0.3,0.86
+Game_0762,Switch,2011.0,Puzzle,Ubisoft,,5.1,0.84,0.47,0.27,0.05,1.63
+Game_0763,PC,1997.0,Sports,Sony,67.0,6.4,0.07,0.07,0.02,0.03,0.19
+Game_0764,PS5,2015.0,Strategy,Take-Two,67.0,5.7,0.51,0.39,0.23,0.43,1.56
+Game_0765,PC,2003.0,Platform,Nintendo,,5.8,0.27,0.19,0.07,0.12,0.65
+Game_0766,Xbox,2005.0,Sports,Electronic Arts,79.0,6.7,0.13,0.12,0.05,0.09,0.39
+Game_0767,PS5,2016.0,RPG,Microsoft,89.0,8.7,1.27,1.55,0.58,1.1,4.5
+Game_0768,PS5,2012.0,Puzzle,Electronic Arts,68.0,7.6,1.19,1.34,0.4,1.29,4.22
+Game_0769,PC,2013.0,Action,Sony,,6.9,1.83,1.74,1.06,1.77,6.4
+Game_0770,Xbox,2009.0,Strategy,Microsoft,74.0,5.5,0.18,0.2,0.05,0.17,0.6
+Game_0771,Xbox,2022.0,Puzzle,Electronic Arts,50.0,6.5,0.05,0.03,0.02,0.0,0.1
+Game_0772,PS4,2001.0,Adventure,Electronic Arts,60.0,7.3,0.02,0.02,0.01,0.03,0.08
+Game_0773,PC,2020.0,Strategy,Microsoft,85.0,5.8,0.32,0.15,0.12,0.11,0.7
+Game_0774,Xbox,2002.0,Sports,Ubisoft,93.0,7.5,0.07,0.07,0.04,0.07,0.25
+Game_0775,Mobile,2020.0,RPG,Ubisoft,78.0,6.9,0.27,0.17,0.11,0.25,0.8
+Game_0776,Mobile,2020.0,Sports,Indie,74.0,7.7,0.12,0.06,0.02,0.12,0.32
+Game_0777,Mobile,1995.0,Adventure,Microsoft,68.0,10.0,0.04,0.02,0.0,0.02,0.08
+Game_0778,Mobile,2012.0,Sports,Electronic Arts,73.0,7.3,0.17,0.13,0.06,0.19,0.55
+Game_0779,Xbox,2010.0,Racing,Electronic Arts,72.0,7.5,1.23,0.77,0.15,0.18,2.33
+Game_0780,PC,2007.0,Platform,Microsoft,76.0,6.4,0.17,0.12,0.06,0.0,0.34
+Game_0781,Mobile,2002.0,Strategy,Microsoft,62.0,8.1,0.1,0.05,0.03,0.07,0.25
+Game_0782,PS5,1998.0,Adventure,Electronic Arts,74.0,5.9,0.04,0.02,0.01,0.04,0.11
+Game_0783,PS4,2002.0,Simulation,,54.0,7.1,0.21,0.14,0.02,0.25,0.62
+Game_0784,Mobile,1998.0,Sports,Electronic Arts,51.0,4.3,0.27,0.18,0.12,0.24,0.81
+Game_0785,Mobile,2021.0,RPG,Indie,86.0,9.4,0.12,0.12,0.07,0.14,0.45
+Game_0786,PS5,2006.0,Racing,Indie,100.0,8.4,0.22,0.29,0.06,0.28,0.85
+Game_0787,Mobile,2009.0,Racing,Indie,74.0,5.5,0.74,0.48,0.07,0.77,2.06
+Game_0788,PC,2014.0,Platform,Microsoft,72.0,9.2,0.49,0.19,0.07,0.22,0.97
+Game_0789,PS5,2013.0,Action,Indie,89.0,7.3,0.01,0.0,0.0,0.01,0.02
+Game_0790,PC,1998.0,Sports,Indie,55.0,7.9,0.99,0.6,0.39,0.1,2.08
+Game_0791,Xbox,2025.0,Action,Indie,51.0,7.2,0.16,0.1,0.11,0.24,0.61
+Game_0792,PC,2016.0,Sports,Electronic Arts,81.0,6.6,0.04,0.03,0.02,0.01,0.1
+Game_0793,PS4,2014.0,Sports,Nintendo,90.0,8.1,0.41,0.28,0.12,0.14,0.95
+Game_0794,PS4,1996.0,RPG,Indie,80.0,6.4,0.08,0.04,0.01,0.06,0.19
+Game_0795,PS5,2020.0,Platform,Indie,69.0,5.4,0.05,0.03,0.01,0.05,0.14
+Game_0796,Switch,2013.0,Adventure,Ubisoft,95.0,8.8,0.32,0.15,0.13,0.13,0.73
+Game_0797,Xbox,2014.0,Shooter,Microsoft,65.0,,0.48,0.45,0.18,0.37,1.48
+Game_0798,PS5,2006.0,Racing,Electronic Arts,70.0,8.2,1.16,0.65,0.39,0.29,2.49
+Game_0799,PS5,2014.0,RPG,Microsoft,66.0,6.9,0.18,0.14,0.06,0.04,0.42
+Game_0800,Switch,1996.0,RPG,Nintendo,56.0,8.2,0.27,0.2,0.05,0.19,0.71
+Game_0801,Xbox,2001.0,Racing,Nintendo,69.0,4.5,0.13,0.06,0.02,0.11,0.32
+Game_0802,Mobile,2021.0,Adventure,Indie,70.0,8.0,0.08,0.03,0.02,0.03,0.16
+Game_0803,PC,2012.0,Racing,Microsoft,70.0,7.6,0.01,0.0,0.0,0.01,0.02
+Game_0804,Mobile,2005.0,Shooter,Take-Two,79.0,5.8,0.53,0.4,0.15,0.44,1.52
+Game_0805,Mobile,2018.0,Action,Ubisoft,64.0,7.9,0.25,0.23,0.02,0.21,0.71
+Game_0806,Mobile,2024.0,Shooter,Indie,88.0,7.9,0.25,0.26,0.15,0.28,0.94
+Game_0807,PS4,2014.0,Adventure,Electronic Arts,68.0,7.1,0.12,0.15,0.03,0.16,0.46
+Game_0808,Switch,1995.0,Simulation,Nintendo,58.0,8.1,0.26,0.19,0.08,0.49,1.02
+Game_0809,PS4,2017.0,Puzzle,Electronic Arts,57.0,5.9,0.1,0.05,0.03,0.05,0.23
+Game_0810,Switch,2019.0,Platform,Electronic Arts,66.0,5.6,0.74,0.6,0.43,0.45,2.22
+Game_0811,PS5,2013.0,RPG,Take-Two,69.0,4.9,0.75,0.35,0.06,0.81,1.97
+Game_0812,Switch,2025.0,Racing,Indie,77.0,7.7,1.47,0.8,0.25,0.36,2.88
+Game_0813,PC,2014.0,Platform,Sony,74.0,7.3,0.06,0.06,0.02,0.03,0.17
+Game_0814,PS5,2009.0,RPG,Electronic Arts,,4.6,0.51,0.33,0.09,0.11,1.04
+Game_0815,PS4,2006.0,Action,Nintendo,66.0,7.9,0.12,0.09,0.01,0.08,0.3
+Game_0816,PC,2012.0,Action,Take-Two,81.0,,0.12,0.09,0.02,0.08,0.31
+Game_0817,PS5,1997.0,Racing,Electronic Arts,73.0,9.8,0.2,0.15,0.07,0.18,0.6
+Game_0818,Switch,2014.0,Racing,Take-Two,80.0,7.0,0.19,0.06,0.07,0.07,0.39
+Game_0819,Switch,2012.0,RPG,Electronic Arts,63.0,9.2,0.03,0.02,0.0,0.03,0.08
+Game_0820,Switch,2001.0,Puzzle,Take-Two,83.0,4.8,0.47,0.24,0.16,0.14,1.01
+Game_0821,Mobile,2006.0,RPG,Microsoft,59.0,8.7,0.29,0.26,0.08,0.41,1.04
+Game_0822,PS5,2018.0,Adventure,Ubisoft,100.0,,0.18,0.14,0.1,0.15,0.57
+Game_0823,Switch,2013.0,Action,Electronic Arts,52.0,6.7,0.29,0.14,0.08,0.04,0.55
+Game_0824,PC,2020.0,Adventure,Microsoft,66.0,8.1,0.09,0.04,0.02,0.01,0.16
+Game_0825,Xbox,2021.0,Action,Take-Two,71.0,4.0,0.31,0.2,0.07,0.24,0.82
+Game_0826,PC,2022.0,Strategy,Nintendo,92.0,7.2,2.05,0.93,0.47,0.45,3.9
+Game_0827,PC,2008.0,Shooter,Electronic Arts,94.0,7.6,0.06,0.03,0.02,0.02,0.13
+Game_0828,Switch,2016.0,Strategy,Take-Two,,7.1,0.15,0.07,0.01,0.06,0.29
+Game_0829,Switch,2006.0,Simulation,Electronic Arts,88.0,,0.11,0.07,0.02,0.03,0.23
+Game_0830,PS5,1999.0,Shooter,Take-Two,53.0,8.1,0.12,0.07,0.03,0.01,0.23
+Game_0831,Switch,2017.0,Platform,Ubisoft,96.0,5.0,0.46,0.19,0.04,0.42,1.11
+Game_0832,PS5,1998.0,Sports,Microsoft,66.0,7.7,1.64,0.84,0.47,0.12,3.07
+Game_0833,PS4,2009.0,Shooter,Indie,79.0,6.0,1.03,0.55,0.37,1.03,2.98
+Game_0834,Switch,2006.0,RPG,Electronic Arts,75.0,8.7,0.06,0.02,0.02,0.01,0.11
+Game_0835,PC,2018.0,Action,Indie,61.0,7.4,0.2,0.1,0.08,0.1,0.48
+Game_0836,PS5,2015.0,Action,Indie,73.0,,0.16,0.07,0.06,0.03,0.32
+Game_0837,PS5,2025.0,Simulation,Sony,,10.0,0.86,0.3,0.23,0.51,1.9
+Game_0838,Xbox,2002.0,Action,Nintendo,57.0,8.8,0.95,0.56,0.45,0.85,2.81
+Game_0839,PS5,1999.0,Strategy,Indie,77.0,4.0,0.14,0.05,0.05,0.06,0.3
+Game_0840,Xbox,2016.0,Strategy,Microsoft,,5.4,0.02,0.01,0.01,0.02,0.06
+Game_0841,Switch,2002.0,Strategy,Electronic Arts,62.0,7.1,0.25,0.21,0.04,0.48,0.98
+Game_0842,PS5,2011.0,Sports,Nintendo,86.0,7.5,0.26,0.12,0.08,0.02,0.48
+Game_0843,PS5,2016.0,Action,Ubisoft,,7.3,0.75,0.45,0.24,0.0,1.38
+Game_0844,PC,2012.0,Action,Nintendo,51.0,7.0,0.24,0.29,0.11,0.26,0.9
+Game_0845,PS4,2005.0,Adventure,Ubisoft,81.0,8.3,0.16,0.21,0.09,0.14,0.6
+Game_0846,PS4,2013.0,Simulation,Nintendo,59.0,5.9,0.07,0.07,0.02,0.07,0.23
+Game_0847,Xbox,1999.0,Sports,Microsoft,,7.7,0.06,0.02,0.01,0.05,0.14
+Game_0848,PS4,2021.0,Shooter,Microsoft,60.0,6.5,0.42,0.4,0.23,0.14,1.19
+Game_0849,Mobile,2008.0,Racing,Electronic Arts,89.0,8.6,0.07,0.04,0.02,0.04,0.17
+Game_0850,Mobile,2025.0,Action,Microsoft,74.0,7.4,0.15,0.17,0.04,0.16,0.52
+Game_0851,PC,2011.0,Strategy,Electronic Arts,81.0,5.6,0.1,0.1,0.02,0.08,0.3
+Game_0852,Xbox,1997.0,Platform,Nintendo,64.0,5.6,0.1,0.03,0.01,0.04,0.18
+Game_0853,Xbox,2008.0,Shooter,Ubisoft,60.0,9.9,0.02,0.02,0.01,0.01,0.06
+Game_0854,PS4,2022.0,RPG,Electronic Arts,71.0,8.0,0.55,0.38,0.14,0.09,1.16
+Game_0855,PS5,2015.0,Shooter,Sony,80.0,8.2,1.48,0.97,0.35,0.6,3.4
+Game_0856,PC,2025.0,Sports,,80.0,6.4,0.04,0.02,0.01,0.0,0.07
+Game_0857,Switch,1995.0,Simulation,Sony,92.0,6.5,0.62,0.36,0.3,0.94,2.22
+Game_0858,PC,2003.0,Adventure,Sony,76.0,4.1,0.01,0.01,0.0,0.01,0.03
+Game_0859,PS4,2008.0,Shooter,Indie,93.0,8.1,0.74,0.3,0.05,0.43,1.52
+Game_0860,Mobile,1997.0,Shooter,Indie,58.0,,0.09,0.1,0.06,0.05,0.3
+Game_0861,Switch,1995.0,Strategy,Nintendo,68.0,8.7,0.18,0.14,0.03,0.25,0.6
+Game_0862,PC,2001.0,Strategy,Microsoft,59.0,9.0,0.12,0.06,0.06,0.06,0.3
+Game_0863,Mobile,2017.0,Action,Nintendo,74.0,7.2,3.96,3.38,1.69,0.83,9.86
+Game_0864,Xbox,2006.0,Sports,Sony,60.0,7.6,0.13,0.12,0.07,0.08,0.4
+Game_0865,Switch,1996.0,Adventure,Ubisoft,79.0,8.6,0.02,0.01,0.01,0.01,0.05
+Game_0866,PS5,2014.0,Action,Nintendo,72.0,6.5,0.37,0.16,0.15,0.08,0.76
+Game_0867,Mobile,2007.0,Racing,Indie,75.0,8.3,0.79,0.62,0.43,1.16,3.0
+Game_0868,Xbox,2011.0,Action,Ubisoft,76.0,4.4,0.07,0.03,0.03,0.02,0.15
+Game_0869,PS5,2009.0,Action,Sony,68.0,7.8,0.93,0.42,0.25,0.26,1.86
+Game_0870,PS5,2001.0,Sports,Take-Two,86.0,6.6,0.02,0.01,0.01,0.0,0.04
+Game_0871,PC,2017.0,Racing,Microsoft,99.0,7.2,1.34,0.89,0.25,0.45,2.93
+Game_0872,PC,1997.0,Strategy,Indie,79.0,5.6,0.04,0.03,0.03,0.04,0.14
+Game_0873,PC,2007.0,Strategy,Nintendo,75.0,5.8,0.73,0.47,0.12,0.04,1.36
+Game_0874,PC,1995.0,Action,Nintendo,79.0,6.1,0.65,0.28,0.11,0.16,1.2
+Game_0875,Mobile,2012.0,Sports,Electronic Arts,65.0,7.0,0.72,0.41,0.17,0.62,1.92
+Game_0876,Xbox,2016.0,Sports,Microsoft,61.0,5.8,1.05,0.86,0.14,0.5,2.55
+Game_0877,PS4,1997.0,Action,Microsoft,64.0,4.9,0.62,0.4,0.07,0.18,1.27
+Game_0878,PS4,2010.0,Racing,Electronic Arts,78.0,9.8,0.08,0.04,0.01,0.03,0.16
+Game_0879,Mobile,2015.0,RPG,Nintendo,76.0,7.9,0.12,0.06,0.05,0.04,0.27
+Game_0880,PS4,2003.0,Sports,Sony,,5.7,0.08,0.08,0.04,0.04,0.24
+Game_0881,PS4,1998.0,Sports,Indie,54.0,6.5,0.17,0.16,0.08,0.27,0.68
+Game_0882,PC,2010.0,Adventure,Electronic Arts,79.0,6.8,0.11,0.06,0.02,0.03,0.22
+Game_0883,PC,2020.0,Simulation,Ubisoft,90.0,7.6,0.1,0.06,0.04,0.11,0.31
+Game_0884,PC,2000.0,Racing,Indie,57.0,5.6,0.35,0.35,0.14,0.26,1.1
+Game_0885,PS4,2023.0,RPG,Indie,84.0,,1.27,0.73,0.17,1.06,3.23
+Game_0886,PS4,2015.0,RPG,Microsoft,80.0,8.0,0.15,0.12,0.06,0.05,0.38
+Game_0887,PS4,2001.0,Shooter,Take-Two,73.0,10.0,0.28,0.12,0.05,0.14,0.59
+Game_0888,Switch,2006.0,Shooter,Ubisoft,52.0,8.0,0.16,0.09,0.05,0.21,0.51
+Game_0889,PC,2004.0,Adventure,Take-Two,63.0,7.1,0.29,0.11,0.03,0.15,0.58
+Game_0890,Xbox,2011.0,Sports,Nintendo,83.0,5.1,0.59,0.4,0.11,0.11,1.21
+Game_0891,Mobile,2023.0,Sports,Nintendo,85.0,7.9,0.21,0.17,0.06,0.19,0.63
+Game_0892,Xbox,2005.0,Strategy,Sony,71.0,5.5,0.42,0.27,0.15,0.2,1.04
+Game_0893,Switch,2004.0,Shooter,Indie,,8.4,0.27,0.1,0.04,0.11,0.52
+Game_0894,PS4,,Simulation,Indie,89.0,6.7,0.02,0.02,0.0,0.01,0.05
+Game_0895,PC,1999.0,Adventure,Sony,75.0,6.0,0.17,0.15,0.07,0.1,0.49
+Game_0896,Mobile,2023.0,Racing,Sony,80.0,8.7,0.46,0.29,0.07,0.33,1.15
+Game_0897,PS5,2018.0,Platform,Indie,82.0,6.7,0.11,0.06,0.03,0.02,0.22
+Game_0898,PC,2007.0,Adventure,Indie,49.0,6.1,0.46,0.26,0.23,0.54,1.49
+Game_0899,Xbox,1997.0,Strategy,Sony,100.0,7.0,0.06,0.05,0.01,0.03,0.15
+Game_0900,PC,2017.0,Racing,Electronic Arts,80.0,10.0,0.18,0.11,0.06,0.02,0.37
+Game_0901,PS4,1996.0,Strategy,Electronic Arts,97.0,,0.19,0.07,0.08,0.08,0.42
+Game_0902,PS4,2005.0,Platform,Ubisoft,63.0,7.3,0.01,0.01,0.0,0.03,0.05
+Game_0903,PC,2012.0,Shooter,Nintendo,52.0,4.5,0.06,0.06,0.03,0.03,0.18
+Game_0904,Mobile,2001.0,Shooter,Electronic Arts,80.0,9.4,0.05,0.03,0.01,0.02,0.11
+Game_0905,PS5,1995.0,Action,Sony,52.0,5.1,0.14,0.11,0.03,0.06,0.34
+Game_0906,Xbox,1998.0,Puzzle,Ubisoft,64.0,7.2,0.19,0.23,0.11,0.24,0.77
+Game_0907,Xbox,2000.0,Action,Electronic Arts,72.0,6.7,0.02,0.02,0.01,0.0,0.05
+Game_0908,PS4,2015.0,Puzzle,Sony,56.0,7.0,0.07,0.07,0.02,0.04,0.2
+Game_0909,Mobile,2012.0,Shooter,Electronic Arts,74.0,7.0,0.23,0.22,0.14,0.11,0.7
+Game_0910,Switch,2022.0,Platform,Indie,72.0,,0.42,0.51,0.25,0.49,1.67
+Game_0911,Xbox,1997.0,Action,Nintendo,69.0,6.8,0.75,0.47,0.06,0.47,1.75
+Game_0912,Xbox,2004.0,RPG,Electronic Arts,66.0,5.6,0.11,0.13,0.08,0.08,0.4
+Game_0913,Switch,2019.0,Racing,Indie,90.0,5.2,0.2,0.06,0.08,0.08,0.42
+Game_0914,PC,2008.0,Shooter,Ubisoft,73.0,6.6,0.34,0.26,0.14,0.49,1.23
+Game_0915,Mobile,2018.0,Sports,Electronic Arts,75.0,8.4,0.25,0.18,0.13,0.32,0.88
+Game_0916,PS5,2010.0,RPG,Indie,78.0,7.4,1.09,0.65,0.22,0.13,2.09
+Game_0917,PC,2022.0,Action,Indie,63.0,5.9,0.05,0.02,0.0,0.04,0.11
+Game_0918,PS5,2002.0,Simulation,Nintendo,,8.4,0.34,0.29,0.08,0.13,0.84
+Game_0919,PS5,2013.0,Strategy,Indie,100.0,9.5,0.39,0.18,0.07,0.29,0.93
+Game_0920,Mobile,2022.0,Racing,,64.0,5.0,0.47,0.35,0.12,0.44,1.38
+Game_0921,PS5,2024.0,Shooter,Indie,93.0,5.0,0.01,0.0,0.0,0.02,0.03
+Game_0922,PS5,2014.0,Sports,Indie,50.0,9.5,0.24,0.09,0.04,0.14,0.51
+Game_0923,Switch,2000.0,Puzzle,Electronic Arts,75.0,6.1,0.46,0.27,0.07,0.5,1.3
+Game_0924,Switch,2018.0,Puzzle,Sony,66.0,8.2,0.62,0.42,0.09,0.32,1.45
+Game_0925,PS4,2001.0,Strategy,Ubisoft,76.0,6.0,0.63,0.22,0.06,0.47,1.38
+Game_0926,Mobile,2012.0,Adventure,Sony,81.0,7.5,0.01,0.01,0.01,0.01,0.04
+Game_0927,PC,2000.0,Action,Electronic Arts,80.0,7.9,0.1,0.05,0.02,0.05,0.22
+Game_0928,Switch,2013.0,Shooter,Electronic Arts,62.0,5.1,0.34,0.23,0.12,0.26,0.95
+Game_0929,PC,2017.0,Sports,Nintendo,59.0,8.7,0.06,0.06,0.02,0.1,0.24
+Game_0930,PC,2016.0,Sports,Nintendo,79.0,5.9,0.03,0.02,0.02,0.03,0.1
+Game_0931,Mobile,2014.0,RPG,Indie,88.0,7.0,0.09,0.04,0.03,0.02,0.18
+Game_0932,Mobile,2024.0,Adventure,Ubisoft,80.0,6.4,0.13,0.12,0.06,0.06,0.37
+Game_0933,Xbox,2024.0,RPG,Electronic Arts,91.0,7.6,0.33,0.23,0.06,0.19,0.81
+Game_0934,PS4,2019.0,Puzzle,Nintendo,64.0,7.8,0.19,0.1,0.02,0.08,0.39
+Game_0935,Mobile,2013.0,RPG,Sony,60.0,5.8,0.1,0.05,0.03,0.02,0.2
+Game_0936,PS4,2015.0,Adventure,Microsoft,67.0,8.7,0.6,0.28,0.16,0.21,1.25
+Game_0937,PS4,1999.0,Sports,Electronic Arts,85.0,6.6,0.05,0.02,0.03,0.04,0.14
+Game_0938,PC,2019.0,Adventure,Ubisoft,68.0,7.5,1.1,0.71,0.15,0.55,2.51
+Game_0939,PS4,2002.0,Shooter,Microsoft,58.0,7.9,0.12,0.05,0.05,0.04,0.26
+Game_0940,PC,2009.0,Shooter,Microsoft,83.0,6.5,0.53,0.4,0.24,0.06,1.23
+Game_0941,PS5,2015.0,Strategy,Electronic Arts,65.0,7.0,0.12,0.1,0.01,0.09,0.32
+Game_0942,PS5,2023.0,Platform,Sony,63.0,8.2,4.47,1.65,1.08,2.68,9.88
+Game_0943,Switch,1999.0,Adventure,Sony,55.0,5.0,0.67,0.35,0.33,0.62,1.97
+Game_0944,Xbox,2001.0,Action,Ubisoft,79.0,6.6,0.77,0.55,0.13,0.36,1.81
+Game_0945,Switch,2025.0,Action,Take-Two,,10.0,0.06,0.04,0.01,0.02,0.13
+Game_0946,Mobile,2012.0,RPG,Microsoft,84.0,6.2,0.18,0.15,0.05,0.06,0.44
+Game_0947,PC,2024.0,Shooter,Sony,67.0,9.3,0.19,0.12,0.03,0.06,0.4
+Game_0948,Mobile,2023.0,Action,Sony,75.0,8.8,0.05,0.03,0.03,0.02,0.13
+Game_0949,Mobile,2016.0,Platform,Indie,88.0,8.7,0.64,0.33,0.16,0.39,1.52
+Game_0950,PS5,1998.0,RPG,Electronic Arts,60.0,8.4,1.23,0.59,0.19,1.27,3.28
+Game_0951,Xbox,1999.0,Sports,Indie,97.0,,0.12,0.04,0.04,0.02,0.22
+Game_0952,PC,2001.0,Action,Sony,75.0,7.5,0.06,0.07,0.04,0.04,0.21
+Game_0953,PS5,2025.0,RPG,Ubisoft,70.0,9.3,0.63,0.59,0.3,0.2,1.72
+Game_0954,PS5,2008.0,Sports,Take-Two,79.0,4.9,0.43,0.25,0.07,0.18,0.93
+Game_0955,PS4,2016.0,Shooter,Indie,76.0,9.0,0.41,0.18,0.12,0.11,0.82
+Game_0956,PC,2023.0,Action,Microsoft,68.0,6.7,0.27,0.09,0.05,0.14,0.55
+Game_0957,Mobile,1997.0,Adventure,Indie,74.0,9.5,0.06,0.06,0.03,0.04,0.19
+Game_0958,Mobile,2006.0,Platform,Electronic Arts,82.0,9.4,0.1,0.04,0.02,0.05,0.21
+Game_0959,PS4,1996.0,RPG,Nintendo,94.0,8.2,0.22,0.17,0.1,0.34,0.83
+Game_0960,Switch,2008.0,RPG,Microsoft,88.0,8.5,0.29,0.13,0.05,0.17,0.64
+Game_0961,PS4,2002.0,Adventure,Sony,90.0,6.1,0.07,0.04,0.01,0.05,0.17
+Game_0962,PS5,1998.0,Sports,Nintendo,83.0,8.1,0.73,0.25,0.14,0.4,1.52
+Game_0963,PS4,2001.0,Action,Indie,74.0,7.7,0.1,0.07,0.01,0.17,0.35
+Game_0964,PC,2025.0,Action,Indie,60.0,8.3,0.73,0.69,0.39,0.22,2.03
+Game_0965,Xbox,2000.0,Platform,Sony,70.0,9.3,0.47,0.31,0.14,0.05,0.97
+Game_0966,Mobile,2018.0,Adventure,Electronic Arts,64.0,7.0,0.31,0.22,0.05,0.56,1.14
+Game_0967,PC,2004.0,Sports,Nintendo,82.0,6.1,0.4,0.26,0.15,0.0,0.81
+Game_0968,PC,2014.0,Action,Indie,42.0,7.0,0.3,0.15,0.17,0.3,0.92
+Game_0969,PS5,2002.0,Puzzle,Indie,68.0,7.4,0.28,0.17,0.03,0.03,0.51
+Game_0970,PC,2015.0,Shooter,Microsoft,79.0,6.5,0.06,0.03,0.02,0.01,0.12
+Game_0971,PC,2000.0,Shooter,Ubisoft,77.0,7.7,0.13,0.06,0.01,0.07,0.27
+Game_0972,Switch,2014.0,Racing,Electronic Arts,78.0,7.7,0.25,0.18,0.15,0.36,0.94
+Game_0973,PS5,2023.0,Racing,Ubisoft,77.0,6.7,0.33,0.22,0.04,0.35,0.94
+Game_0974,Switch,2020.0,Action,Electronic Arts,55.0,9.0,0.9,0.41,0.08,0.56,1.95
+Game_0975,PS5,2016.0,Sports,Indie,,5.7,0.03,0.03,0.01,0.03,0.1
+Game_0976,PS4,2008.0,Shooter,Nintendo,84.0,8.1,0.3,0.15,0.09,0.05,0.59
+Game_0977,Switch,1996.0,Platform,Nintendo,89.0,7.6,0.42,0.18,0.09,0.1,0.79
+Game_0978,Mobile,2023.0,RPG,Nintendo,76.0,6.5,0.59,0.65,0.17,0.78,2.19
+Game_0979,PS4,1998.0,RPG,Sony,68.0,7.8,27.1,12.83,4.91,15.16,60.00304592885527
+Game_0980,PS5,2002.0,Strategy,Sony,84.0,,0.05,0.02,0.02,0.0,0.09
+Game_0981,Xbox,2001.0,Puzzle,Ubisoft,65.0,7.5,0.23,0.22,0.09,0.2,0.74
+Game_0982,PS5,2001.0,Strategy,Electronic Arts,59.0,7.7,0.1,0.06,0.05,0.09,0.3
+Game_0983,PS5,1996.0,Sports,Electronic Arts,48.0,6.9,0.08,0.04,0.03,0.03,0.18
+Game_0984,PC,2021.0,Action,Sony,62.0,7.0,0.29,0.18,0.05,0.1,0.62
+Game_0985,PS5,2014.0,RPG,Nintendo,70.0,5.7,1.23,0.65,0.11,0.61,2.6
+Game_0986,PS4,2006.0,Racing,Indie,53.0,5.3,0.04,0.02,0.01,0.04,0.11
+Game_0987,Xbox,2024.0,Action,Indie,50.0,5.4,0.15,0.14,0.01,0.15,0.45
+Game_0988,Mobile,2004.0,Puzzle,,64.0,6.6,0.56,0.18,0.15,0.14,1.03
+Game_0989,PS5,2016.0,Puzzle,Take-Two,85.0,4.6,0.04,0.03,0.01,0.06,0.14
+Game_0990,Switch,1999.0,Strategy,Electronic Arts,68.0,5.9,0.3,0.16,0.04,0.23,0.73
+Game_0991,Xbox,2004.0,RPG,Electronic Arts,76.0,8.3,0.06,0.04,0.01,0.03,0.14
+Game_0992,Mobile,2020.0,Puzzle,Nintendo,58.0,6.4,0.22,0.09,0.09,0.09,0.49
+Game_0993,Mobile,2012.0,Racing,Sony,74.0,5.1,0.2,0.08,0.07,0.02,0.37
+Game_0994,PS4,2021.0,Adventure,Nintendo,79.0,8.8,0.9,0.52,0.08,0.48,1.98
+Game_0995,PS4,2024.0,Action,Indie,55.0,6.1,0.51,0.15,0.05,0.28,0.99
+Game_0996,Switch,2016.0,Strategy,Take-Two,65.0,5.6,0.11,0.07,0.02,0.05,0.25
+Game_0997,PC,2011.0,Racing,Indie,67.0,,0.11,0.08,0.03,0.12,0.34
+Game_0998,Switch,2020.0,RPG,Indie,77.0,8.5,0.04,0.04,0.02,0.02,0.12
+Game_0999,Mobile,2001.0,RPG,Ubisoft,64.0,7.0,0.49,0.28,0.07,0.07,0.91
+Game_1000,Mobile,2021.0,Sports,Indie,50.0,6.8,0.01,0.01,0.0,0.01,0.03
+Game_1001,PC,2020.0,Racing,Microsoft,65.0,7.8,0.41,0.37,0.1,0.43,1.31
+Game_1002,Xbox,1996.0,Action,Electronic Arts,90.0,6.9,0.05,0.03,0.02,0.03,0.13
+Game_1003,PS4,2007.0,Adventure,Sony,89.0,7.3,0.08,0.04,0.02,0.02,0.16
+Game_1004,PC,2012.0,Sports,Electronic Arts,65.0,,0.23,0.19,0.08,0.05,0.55
+Game_1005,Switch,2001.0,Adventure,Electronic Arts,61.0,7.5,0.1,0.07,0.04,0.09,0.3
+Game_1006,PS4,2019.0,Action,Take-Two,59.0,5.6,0.06,0.04,0.01,0.02,0.13
+Game_1007,Xbox,1999.0,Platform,Microsoft,67.0,7.1,0.11,0.08,0.05,0.09,0.33
+Game_1008,PS5,2021.0,Action,Ubisoft,74.0,4.6,0.84,0.64,0.15,0.66,2.29
+Game_1009,PS5,2015.0,Racing,Microsoft,82.0,7.3,0.07,0.07,0.04,0.06,0.24
+Game_1010,Switch,2015.0,Action,Electronic Arts,94.0,8.6,0.02,0.01,0.01,0.02,0.06
+Game_1011,Switch,2015.0,Adventure,Sony,70.0,7.6,1.08,0.49,0.15,0.49,2.21
+Game_1012,PC,2007.0,RPG,Ubisoft,95.0,6.9,0.05,0.03,0.01,0.02,0.11
+Game_1013,PS4,2003.0,Shooter,Nintendo,86.0,6.9,0.11,0.04,0.03,0.04,0.22
+Game_1014,PC,2017.0,Simulation,Indie,69.0,6.6,0.35,0.4,0.1,0.38,1.23
+Game_1015,PC,2011.0,Shooter,Indie,54.0,3.6,0.2,0.08,0.08,0.16,0.52
+Game_1016,PC,2017.0,Sports,Ubisoft,71.0,,0.2,0.17,0.04,0.26,0.67
+Game_1017,Switch,2024.0,Strategy,Electronic Arts,93.0,7.7,0.16,0.14,0.09,0.12,0.51
+Game_1018,Switch,2000.0,Action,Nintendo,70.0,5.6,0.08,0.05,0.02,0.07,0.22
+Game_1019,PS4,2021.0,Adventure,,95.0,6.9,0.26,0.19,0.13,0.33,0.91
+Game_1020,PC,2002.0,Puzzle,Take-Two,58.0,8.7,2.81,2.63,1.21,3.41,10.057908040423401
+Game_1021,PC,2001.0,Shooter,Electronic Arts,96.0,5.2,0.03,0.02,0.01,0.01,0.07
+Game_1022,PC,2008.0,Simulation,Indie,66.0,7.0,0.26,0.18,0.12,0.13,0.69
+Game_1023,Mobile,2016.0,RPG,Microsoft,60.0,7.8,0.14,0.06,0.05,0.05,0.3
+Game_1024,PS5,2022.0,Sports,Indie,66.0,,0.35,0.15,0.08,0.33,0.91
+Game_1025,PC,2001.0,RPG,Indie,65.0,7.8,0.18,0.11,0.03,0.16,0.48
+Game_1026,Mobile,2005.0,RPG,Microsoft,,5.7,0.05,0.04,0.02,0.0,0.11
+Game_1027,Mobile,1995.0,Strategy,Electronic Arts,61.0,8.6,0.05,0.02,0.01,0.01,0.09
+Game_1028,PS4,2009.0,Action,Microsoft,42.0,6.4,0.41,0.18,0.15,0.16,0.9
+Game_1029,PS5,2009.0,Platform,,88.0,5.8,0.1,0.04,0.02,0.03,0.19
+Game_1030,PS5,2014.0,Adventure,Sony,80.0,7.4,0.06,0.03,0.02,0.02,0.13
+Game_1031,Xbox,2007.0,RPG,Ubisoft,65.0,4.5,0.15,0.12,0.05,0.03,0.35
+Game_1032,PS5,2016.0,Strategy,Nintendo,62.0,6.7,0.29,0.24,0.07,0.19,0.79
+Game_1033,PS5,2018.0,Action,Ubisoft,90.0,6.7,0.29,0.18,0.16,0.21,0.84
+Game_1034,Mobile,2003.0,Adventure,Nintendo,59.0,9.8,0.08,0.04,0.03,0.09,0.24
+Game_1035,PC,2001.0,Simulation,Indie,84.0,7.8,0.1,0.05,0.04,0.16,0.35
+Game_1036,PC,1997.0,Racing,Electronic Arts,89.0,8.6,1.71,0.75,0.78,0.79,4.03
+Game_1037,PC,2007.0,Action,Nintendo,82.0,5.9,0.02,0.03,0.02,0.02,0.09
+Game_1038,PC,2021.0,Action,Ubisoft,72.0,5.4,0.05,0.02,0.02,0.05,0.14
+Game_1039,PC,2007.0,Strategy,Take-Two,81.0,4.9,0.14,0.1,0.04,0.18,0.46
+Game_1040,Mobile,1996.0,RPG,Indie,71.0,7.9,0.31,0.18,0.12,0.43,1.04
+Game_1041,Mobile,1995.0,Puzzle,Ubisoft,87.0,,0.07,0.05,0.02,0.12,0.26
+Game_1042,Mobile,2024.0,Sports,Ubisoft,64.0,5.1,0.19,0.12,0.07,0.0,0.38
+Game_1043,PS5,2018.0,Sports,Nintendo,,8.5,0.64,0.44,0.38,0.59,2.05
+Game_1044,Mobile,2004.0,Adventure,Indie,83.0,8.3,0.34,0.14,0.1,0.1,0.68
+Game_1045,Mobile,2025.0,Simulation,Nintendo,71.0,6.4,0.68,0.36,0.15,0.13,1.32
+Game_1046,PS5,2004.0,Sports,Nintendo,88.0,6.5,0.02,0.02,0.01,0.01,0.06
+Game_1047,Xbox,1996.0,Sports,Nintendo,86.0,6.8,0.05,0.03,0.01,0.04,0.13
+Game_1048,Xbox,2006.0,Action,Microsoft,68.0,5.9,0.4,0.18,0.16,0.23,0.97
+Game_1049,PC,1999.0,Puzzle,Electronic Arts,58.0,5.6,1.49,1.23,0.77,1.16,4.65
+Game_1050,Switch,1996.0,Simulation,Indie,56.0,7.2,0.62,0.42,0.09,0.38,1.51
+Game_1051,Xbox,2001.0,Action,Take-Two,63.0,,2.24,0.75,0.28,1.06,4.33
+Game_1052,PS5,2017.0,Shooter,Indie,,5.7,0.14,0.11,0.07,0.06,0.38
+Game_1053,Switch,2017.0,Simulation,Electronic Arts,70.0,8.3,0.85,0.29,0.08,0.38,1.6
+Game_1054,PS4,2015.0,Strategy,Microsoft,,9.8,0.06,0.03,0.01,0.07,0.17
+Game_1055,PC,2007.0,RPG,Indie,72.0,5.6,0.12,0.07,0.02,0.01,0.22
+Game_1056,PS4,2000.0,Shooter,Indie,74.0,6.6,0.26,0.15,0.06,0.08,0.55
+Game_1057,PC,2019.0,Adventure,Electronic Arts,65.0,3.9,1.08,0.43,0.08,0.47,2.06
+Game_1058,PS4,1999.0,Adventure,Nintendo,91.0,8.4,0.08,0.04,0.05,0.12,0.29
+Game_1059,PS5,2003.0,Action,Sony,54.0,5.0,0.2,0.11,0.03,0.18,0.52
+Game_1060,PC,2016.0,Sports,Electronic Arts,76.0,6.9,0.71,0.49,0.21,0.3,1.71
+Game_1061,PC,2022.0,Racing,Nintendo,72.0,7.8,0.06,0.02,0.01,0.02,0.11
+Game_1062,PC,2023.0,Racing,Electronic Arts,71.0,8.1,1.04,0.72,0.33,0.02,2.11
+Game_1063,Switch,2004.0,Adventure,Ubisoft,73.0,5.3,0.72,0.42,0.17,0.35,1.66
+Game_1064,Mobile,2005.0,Racing,Microsoft,66.0,5.9,0.29,0.17,0.07,0.04,0.57
+Game_1065,PS5,2021.0,Adventure,Electronic Arts,59.0,6.6,2.42,1.03,1.0,0.57,5.02
+Game_1066,PS4,2019.0,Racing,Electronic Arts,86.0,4.7,0.05,0.04,0.02,0.05,0.16
+Game_1067,Mobile,2021.0,Shooter,Electronic Arts,90.0,6.0,0.27,0.1,0.07,0.11,0.55
+Game_1068,PS5,2011.0,Action,Indie,81.0,7.7,0.44,0.37,0.14,0.52,1.47
+Game_1069,Xbox,2006.0,Action,Electronic Arts,89.0,8.3,0.27,0.26,0.12,0.08,0.73
+Game_1070,Switch,1997.0,Strategy,Nintendo,75.0,5.1,0.06,0.03,0.02,0.02,0.13
+Game_1071,Xbox,2007.0,Action,Indie,44.0,5.6,0.12,0.05,0.03,0.06,0.26
+Game_1072,Mobile,1995.0,Simulation,Take-Two,60.0,,0.05,0.02,0.02,0.01,0.1
+Game_1073,PC,2018.0,Action,Nintendo,79.0,8.7,0.78,0.44,0.19,0.2,1.61
+Game_1074,PC,2019.0,Racing,Electronic Arts,43.0,6.0,0.98,0.36,0.11,0.43,1.88
+Game_1075,Mobile,2021.0,Shooter,Indie,75.0,7.1,0.06,0.03,0.02,0.04,0.15
+Game_1076,PS4,2021.0,Action,Electronic Arts,77.0,8.5,0.45,0.2,0.11,0.23,0.99
+Game_1077,PS4,2011.0,Shooter,Indie,77.0,7.9,0.03,0.01,0.01,0.0,0.05
+Game_1078,Mobile,2011.0,Action,Sony,59.0,7.9,0.03,0.02,0.01,0.04,0.1
+Game_1079,Mobile,1998.0,RPG,Take-Two,68.0,8.6,0.14,0.07,0.08,0.14,0.43
+Game_1080,Mobile,2012.0,Action,Electronic Arts,68.0,4.5,0.1,0.07,0.05,0.07,0.29
+Game_1081,PC,2019.0,Platform,Ubisoft,76.0,7.4,0.11,0.07,0.03,0.02,0.23
+Game_1082,PS4,2009.0,Shooter,Nintendo,69.0,7.2,0.15,0.15,0.04,0.16,0.5
+Game_1083,Switch,2018.0,Sports,Microsoft,50.0,6.0,0.05,0.03,0.01,0.01,0.1
+Game_1084,PS4,2001.0,Action,Indie,100.0,8.4,0.05,0.03,0.02,0.03,0.13
+Game_1085,Xbox,2014.0,Action,Ubisoft,77.0,8.7,0.61,0.36,0.09,0.07,1.13
+Game_1086,Switch,2014.0,Strategy,Ubisoft,70.0,6.1,0.03,0.02,0.01,0.02,0.08
+Game_1087,Xbox,2015.0,Shooter,Take-Two,66.0,4.8,1.91,1.23,0.7,3.27,7.11
+Game_1088,PS5,2006.0,RPG,Microsoft,83.0,3.0,0.06,0.06,0.02,0.05,0.19
+Game_1089,Switch,2013.0,Action,,76.0,9.8,0.14,0.07,0.04,0.05,0.3
+Game_1090,Mobile,2000.0,Adventure,Electronic Arts,78.0,,0.14,0.1,0.07,0.12,0.43
+Game_1091,PS4,2010.0,Puzzle,Indie,53.0,7.4,0.35,0.16,0.16,0.33,1.0
+Game_1092,PS5,2006.0,Shooter,Indie,46.0,7.0,0.05,0.03,0.02,0.07,0.17
+Game_1093,Xbox,2010.0,Shooter,Microsoft,90.0,9.1,0.03,0.02,0.0,0.01,0.06
+Game_1094,PS5,2013.0,RPG,Nintendo,76.0,4.9,0.1,0.05,0.02,0.07,0.24
+Game_1095,PS5,2010.0,Action,Microsoft,76.0,6.6,0.68,0.28,0.06,0.41,1.43
+Game_1096,PS4,1995.0,RPG,Sony,88.0,5.8,0.18,0.08,0.07,0.01,0.34
+Game_1097,Switch,2001.0,Racing,Indie,68.0,,0.23,0.15,0.08,0.04,0.5
+Game_1098,Switch,2024.0,Action,Sony,79.0,,0.33,0.13,0.1,0.11,0.67
+Game_1099,Mobile,2024.0,Racing,Sony,50.0,5.5,0.17,0.11,0.07,0.21,0.56
+Game_1100,PC,2008.0,Action,,72.0,7.2,0.12,0.1,0.06,0.02,0.3
+Game_1101,PC,1996.0,Sports,Electronic Arts,72.0,7.2,1.04,0.51,0.07,0.34,1.96
+Game_1102,Mobile,2010.0,Racing,Indie,86.0,,0.06,0.04,0.02,0.06,0.18
+Game_1103,Xbox,2015.0,Shooter,Microsoft,67.0,6.7,0.23,0.16,0.15,0.22,0.76
+Game_1104,Mobile,2010.0,Simulation,Take-Two,100.0,,0.09,0.06,0.03,0.02,0.2
+Game_1105,PS4,2016.0,Racing,Microsoft,40.0,,0.24,0.09,0.03,0.1,0.46
+Game_1106,PS5,2001.0,Strategy,Electronic Arts,87.0,8.1,0.97,0.75,0.31,1.58,3.61
+Game_1107,Xbox,1996.0,Shooter,Microsoft,50.0,8.5,0.66,0.22,0.22,0.3,1.4
+Game_1108,PS5,2009.0,Action,Electronic Arts,86.0,6.6,0.38,0.18,0.09,0.09,0.74
+Game_1109,PS5,2018.0,Strategy,Nintendo,83.0,6.1,0.2,0.09,0.07,0.03,0.39
+Game_1110,PS4,2006.0,RPG,Ubisoft,64.0,7.0,1.28,0.62,0.23,1.27,3.4
+Game_1111,Switch,2006.0,Simulation,Sony,68.0,6.2,0.66,0.35,0.09,0.11,1.21
+Game_1112,PS4,2005.0,Simulation,Sony,69.0,7.0,0.29,0.09,0.1,0.06,0.54
+Game_1113,PS4,2019.0,Sports,Indie,83.0,,0.05,0.04,0.01,0.08,0.18
+Game_1114,PS4,2014.0,Adventure,Ubisoft,66.0,5.3,0.07,0.03,0.01,0.04,0.15
+Game_1115,Mobile,2003.0,Adventure,Take-Two,77.0,7.3,0.26,0.22,0.04,0.23,0.75
+Game_1116,Mobile,2014.0,Shooter,Electronic Arts,74.0,8.2,0.13,0.06,0.07,0.11,0.37
+Game_1117,PS4,2025.0,Action,Take-Two,81.0,7.9,0.28,0.25,0.06,0.23,0.82
+Game_1118,PS4,2009.0,Shooter,Microsoft,75.0,5.3,0.07,0.05,0.03,0.08,0.23
+Game_1119,PC,1997.0,Sports,Ubisoft,79.0,8.8,0.13,0.07,0.02,0.05,0.27
+Game_1120,Switch,2021.0,Adventure,Ubisoft,83.0,,0.23,0.17,0.06,0.19,0.65
+Game_1121,Xbox,2025.0,Adventure,Sony,82.0,6.0,0.46,0.25,0.13,0.31,1.15
+Game_1122,PC,2011.0,Action,Sony,82.0,7.1,0.11,0.07,0.01,0.05,0.24
+Game_1123,PC,2001.0,Puzzle,Indie,71.0,7.1,0.16,0.13,0.06,0.14,0.49
+Game_1124,PC,2019.0,RPG,Electronic Arts,72.0,6.6,0.15,0.17,0.02,0.24,0.58
+Game_1125,PS4,2000.0,RPG,Electronic Arts,63.0,6.3,0.13,0.07,0.02,0.06,0.28
+Game_1126,PS4,2011.0,Action,Take-Two,81.0,6.4,0.22,0.15,0.11,0.12,0.6
+Game_1127,PC,1997.0,Sports,Ubisoft,61.0,8.4,1.26,1.67,0.82,1.17,4.92
+Game_1128,Mobile,2009.0,Puzzle,Microsoft,70.0,8.5,2.28,2.32,1.11,1.39,7.1
+Game_1129,PC,1996.0,Adventure,Indie,72.0,7.2,0.02,0.02,0.0,0.01,0.05
+Game_1130,PC,2019.0,Sports,Sony,80.0,5.6,5.29,2.56,1.18,1.66,10.688653745454262
+Game_1131,Switch,2001.0,Simulation,Indie,79.0,7.9,0.12,0.13,0.03,0.14,0.42
+Game_1132,Xbox,2011.0,Puzzle,Nintendo,82.0,9.0,0.88,0.52,0.35,0.41,2.16
+Game_1133,Mobile,2022.0,Sports,Microsoft,76.0,8.0,0.28,0.1,0.07,0.11,0.56
+Game_1134,Mobile,2023.0,Racing,Microsoft,56.0,6.1,0.12,0.05,0.01,0.06,0.24
+Game_1135,Mobile,2022.0,Platform,Sony,67.0,6.5,0.8,0.58,0.11,0.7,2.19
+Game_1136,Xbox,2017.0,Action,Nintendo,75.0,8.9,0.59,0.19,0.16,0.17,1.11
+Game_1137,Xbox,2012.0,Strategy,Electronic Arts,78.0,7.4,0.04,0.02,0.0,0.02,0.08
+Game_1138,PC,2022.0,Adventure,Microsoft,63.0,5.6,0.04,0.02,0.01,0.07,0.14
+Game_1139,PS4,2001.0,Sports,Nintendo,65.0,8.8,0.69,0.22,0.24,0.16,1.31
+Game_1140,PS5,2015.0,RPG,Sony,72.0,,0.25,0.15,0.07,0.01,0.48
+Game_1141,PC,2004.0,RPG,Sony,58.0,9.4,0.07,0.04,0.02,0.02,0.15
+Game_1142,Xbox,2015.0,Simulation,Indie,71.0,10.0,0.3,0.15,0.04,0.15,0.64
+Game_1143,PC,2019.0,Simulation,Indie,87.0,,1.06,0.7,0.6,1.24,3.6
+Game_1144,Xbox,2007.0,Action,Microsoft,57.0,8.2,0.22,0.19,0.03,0.12,0.56
+Game_1145,Mobile,2018.0,Adventure,Indie,56.0,7.1,0.15,0.08,0.04,0.24,0.51
+Game_1146,PS4,2020.0,Adventure,Microsoft,86.0,5.1,1.24,1.33,0.39,0.86,3.82
+Game_1147,Xbox,2006.0,Sports,Sony,71.0,6.1,0.22,0.13,0.08,0.07,0.5
+Game_1148,PC,2022.0,Shooter,Ubisoft,,5.5,1.38,0.72,0.11,0.66,2.87
+Game_1149,PS5,2022.0,Shooter,Take-Two,56.0,6.3,0.19,0.14,0.02,0.19,0.54
+Game_1150,PC,2005.0,Adventure,Electronic Arts,86.0,7.5,0.13,0.12,0.08,0.12,0.45
+Game_1151,PS5,2021.0,Sports,Electronic Arts,77.0,6.3,0.11,0.05,0.02,0.02,0.2
+Game_1152,PC,1998.0,Adventure,Microsoft,58.0,8.3,0.03,0.03,0.01,0.02,0.09
+Game_1153,PS4,2022.0,Adventure,Take-Two,78.0,5.9,0.14,0.14,0.06,0.18,0.52
+Game_1154,Switch,1995.0,Platform,Nintendo,100.0,7.7,0.23,0.18,0.05,0.26,0.72
+Game_1155,Switch,1996.0,Adventure,Indie,84.0,8.7,0.05,0.03,0.01,0.06,0.15
+Game_1156,Mobile,2000.0,Action,Indie,76.0,6.0,2.42,1.12,0.26,1.67,5.466377105747651
+Game_1157,Mobile,2005.0,RPG,Electronic Arts,69.0,6.8,0.2,0.07,0.03,0.09,0.39
+Game_1158,Xbox,2006.0,Strategy,Take-Two,56.0,5.6,0.5,0.25,0.12,0.32,1.1903755832276048
+Game_1159,Switch,1999.0,Action,Electronic Arts,56.0,6.0,0.13,0.08,0.03,0.02,0.26
+Game_1160,Xbox,1999.0,Sports,Take-Two,68.0,7.3,0.02,0.01,0.0,0.02,0.05
+Game_1161,PC,2001.0,RPG,Electronic Arts,85.0,7.3,0.08,0.09,0.06,0.07,0.3
+Game_1162,Switch,2003.0,Action,Electronic Arts,71.0,8.2,0.18,0.1,0.08,0.13,0.49
+Game_1163,Xbox,2024.0,Action,Ubisoft,94.0,,0.99,0.37,0.27,0.2,1.83
+Game_1164,Mobile,2014.0,Action,Microsoft,61.0,7.3,0.02,0.01,0.0,0.03,0.06
+Game_1165,PC,2017.0,Action,Microsoft,59.0,7.9,0.05,0.05,0.03,0.03,0.16
+Game_1166,Mobile,1998.0,Puzzle,Ubisoft,74.0,6.8,0.31,0.35,0.15,0.3,1.11
+Game_1167,PC,2016.0,Shooter,Take-Two,72.0,7.4,0.41,0.26,0.11,0.15,0.93
+Game_1168,PC,2011.0,Puzzle,Sony,93.0,4.9,0.17,0.11,0.06,0.0,0.34
+Game_1169,Xbox,2018.0,Action,Ubisoft,,5.7,1.93,1.22,0.57,0.54,4.26
+Game_1170,PS5,2022.0,Strategy,Microsoft,74.0,8.6,0.14,0.09,0.01,0.03,0.27
+Game_1171,PS4,2016.0,Sports,Take-Two,63.0,,0.51,0.45,0.2,0.2,1.36
+Game_1172,PS4,2000.0,Strategy,Indie,82.0,4.4,0.43,0.47,0.14,0.36,1.4
+Game_1173,PC,2005.0,Simulation,Nintendo,100.0,7.2,0.03,0.02,0.01,0.01,0.07
+Game_1174,Mobile,1995.0,Shooter,Indie,75.0,4.8,0.37,0.18,0.15,0.18,0.88
+Game_1175,Switch,2020.0,Adventure,Electronic Arts,57.0,9.1,0.29,0.2,0.11,0.18,0.78
+Game_1176,PS5,2015.0,RPG,Nintendo,53.0,8.8,0.06,0.04,0.02,0.0,0.12
+Game_1177,PS5,2015.0,Racing,Microsoft,69.0,6.0,1.27,0.67,0.12,1.37,3.43
+Game_1178,Switch,1996.0,Sports,Electronic Arts,76.0,7.1,0.13,0.11,0.04,0.11,0.39
+Game_1179,PS4,2014.0,Action,Microsoft,64.0,5.7,1.16,0.88,0.21,1.42,3.67
+Game_1180,Xbox,2016.0,RPG,Ubisoft,68.0,,0.05,0.02,0.01,0.02,0.1
+Game_1181,Mobile,2023.0,Action,Indie,67.0,7.4,0.09,0.04,0.03,0.06,0.22
+Game_1182,Switch,2014.0,Adventure,Take-Two,90.0,4.8,0.42,0.31,0.05,0.21,0.99
+Game_1183,Xbox,2004.0,Shooter,Sony,,7.8,0.11,0.09,0.04,0.08,0.32
+Game_1184,Switch,1996.0,Sports,Microsoft,67.0,9.1,0.86,0.42,0.39,0.35,2.02
+Game_1185,PC,2021.0,Strategy,Nintendo,87.0,7.4,0.1,0.09,0.05,0.05,0.29
+Game_1186,Mobile,2016.0,Shooter,Sony,93.0,9.0,0.01,0.01,0.0,0.02,0.04
+Game_1187,PS5,2002.0,Platform,Indie,66.0,6.8,0.92,0.38,0.36,0.2,1.86
+Game_1188,PS4,2017.0,Adventure,Sony,71.0,8.1,0.17,0.11,0.03,0.06,0.37
+Game_1189,Xbox,2006.0,Strategy,Ubisoft,98.0,8.3,0.19,0.17,0.02,0.13,0.51
+Game_1190,PS5,2011.0,Action,Electronic Arts,90.0,6.4,0.13,0.08,0.02,0.13,0.36
+Game_1191,Switch,2002.0,Shooter,Sony,63.0,7.8,0.46,0.19,0.09,0.44,1.18
+Game_1192,Xbox,2025.0,Shooter,Take-Two,61.0,7.2,0.6,0.29,0.1,0.14,1.13
+Game_1193,Mobile,2014.0,Adventure,Take-Two,75.0,4.8,0.01,0.0,0.0,0.01,0.02
+Game_1194,PS5,2000.0,Action,Nintendo,,5.9,0.37,0.27,0.13,0.02,0.79
+Game_1195,Xbox,2015.0,Action,Ubisoft,68.0,6.0,0.03,0.01,0.01,0.01,0.06
+Game_1196,PC,2020.0,Racing,Ubisoft,78.0,5.6,0.27,0.12,0.02,0.17,0.58
+Game_1197,PC,2008.0,Shooter,Ubisoft,53.0,,0.15,0.08,0.04,0.13,0.4
+Game_1198,PS4,2015.0,RPG,Indie,77.0,8.7,0.27,0.18,0.11,0.41,0.97
+Game_1199,Mobile,1996.0,Action,Indie,80.0,6.0,0.02,0.02,0.0,0.01,0.05
+Game_1200,PS4,1996.0,Action,Electronic Arts,71.0,7.7,0.17,0.11,0.04,0.05,0.37
